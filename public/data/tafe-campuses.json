@@ -1,0 +1,50 @@
+[
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Reid",
+		"Suburb": "REID",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "Constitution Avenue, REID, ACT, Australia",
+		"Long/Lat": [-35.286934, 149.137238]
+	},
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Bruce",
+		"Suburb": "BRUCE",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "Haydon Drive, BRUCE, ACT",
+		"Long/Lat": [-35.243896, 149.09111]
+	},
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Woden",
+		"Suburb": "PHILLIP",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "Ainsworth Street, PHILLIP, ACT",
+		"Long/Lat": [-35.352463, 149.094269]
+	},
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Fyshwick",
+		"Suburb": "FYSHWICK",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "81 Mildura Street, FYSHWICK, ACT",
+		"Long/Lat": [-35.327362, 149.156937]
+	},
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Gungahlin",
+		"Suburb": "GUNGAHLIN",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "25 Gozzard Street, GUNGAHLIN TOWN CENTRE, ACT",
+		"Long/Lat": [-35.184586, 149.132477]
+	},
+	{
+		"Institute": "Canberra Institute of Technology",
+		"Site": "CIT Tuggeranong",
+		"Suburb": "TUGGERANONG",
+		"Local Government Municipality": "ACT Government",
+		"Location 1": "137 Reed Street, TUGGERANONG, ACT",
+		"Long/Lat": [-35.416496, 149.071518]
+	}
+]

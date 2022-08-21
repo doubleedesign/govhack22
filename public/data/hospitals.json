@@ -1,0 +1,51 @@
+[
+	{
+		"Name:": "Canberra Hospital",
+		"Emergency Dept Equipped?": "Yes",
+		"Public / Private": "Public",
+		"Location 1": "Yamba Drive, Garran ACT 2605",
+		"Coords": [-35.34602, 149.1009]
+	},
+	{
+		"Name:": "Calvary Health Care ACT - Calvary Public",
+		"Emergency Dept Equipped?": "Yes",
+		"Public / Private": "Public",
+		"Location 1": "1 Haydon Drive, Bruce ACT 2617",
+		"Coords": [-35.253032, 149.08972]
+	},
+	{
+		"Name:": "Calvary John James Hospital",
+		"Emergency Dept Equipped?": "No",
+		"Public / Private": "Private",
+		"Location 1": "175 Strickland Cres, Deakin ACT 2600",
+		"Coords": [-35.31888, 149.09523]
+	},
+	{
+		"Name:": "Queanbeyan District Hospital",
+		"Emergency Dept Equipped?": "Yes",
+		"Public / Private": "Public",
+		"Location 1": "16 Erin Street, Queanbeyan NSW 2620",
+		"Coords": [-35.346012, 149.23317]
+	},
+	{
+		"Name:": "Yass Hospital",
+		"Emergency Dept Equipped?": "Yes",
+		"Public / Private": "Public",
+		"Location 1": "145-147 Meehan Street, Yass NSW 2582",
+		"Coords": [-34.843969, 148.906824]
+	},
+	{
+		"Name:": "National Capital Private Hospital",
+		"Emergency Dept Equipped?": "No",
+		"Public / Private": "Private",
+		"Location 1": "Cnr Hospital Road & Glimore Cres, Garran ACT 2605",
+		"Coords": [-35.344151, 149.101831]
+	},
+	{
+		"Name:": "Canberra Eye Hospital",
+		"Emergency Dept Equipped?": "No",
+		"Public / Private": "Private",
+		"Location 1": "14 Wormald Street, Symonston ACT 2609",
+		"Coords": [-35.334248, 149.165852]
+	}
+]

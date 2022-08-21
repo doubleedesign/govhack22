@@ -1,0 +1,122 @@
+[
+	{
+		"Suburb": "Belconnen",
+		"Location": "Belconnen Community Bus Station, access from Swanson Circuit",
+		"Point": [-35.239602, 149.069423],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Calwell",
+		"Location": "Calwell Shops - Webber Street",
+		"Point": [-35.433428, 149.113051],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Kambah",
+		"Location": "Kambah Village Shops - Marconi Crescent",
+		"Point": [-35.379524, 149.057408],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Weston",
+		"Location": "North Weston - Kirkpatrick Street",
+		"Point": [-35.320885, 149.058926],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Belconnen",
+		"Location": "Corner of Josephson Street and Walder Street",
+		"Point": [-35.23824, 149.060841],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Charnwood",
+		"Location": "Charnwood Shopping Centre - Lhotsky Street",
+		"Point": [-35.205147, 149.034283],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Jamison",
+		"Location": "Jamison Centre - Bowman Street",
+		"Point": [-35.252094, 149.072157],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Mawson",
+		"Location": "Corner of Mawson and Athllon Drive, access from Mawson Place",
+		"Point": [-35.364975, 149.092885],
+		"Permit Type": "Permit and Non-permit"
+	},
+	{
+		"Suburb": "Bruce",
+		"Location": "College Street, adjacent to the University of Canberra",
+		"Point": [-35.242036, 149.084796],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Wanniassa",
+		"Location": "Athllon Drive, access via Rylah Crescent",
+		"Point": [-35.390413, 149.084687],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Kippax",
+		"Location": "Kippax Centre - Hardwick Crescent",
+		"Point": [-35.22389, 149.020305],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Fyshwick",
+		"Location": "Tom Price Street",
+		"Point": [-35.340108, 149.184033],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Curtin",
+		"Location": "Curtin Shops - Carruthers Street",
+		"Point": [-35.325559, 149.081705],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Kippax",
+		"Location": "Moyes Crescent",
+		"Point": [-35.2207792, 149.0216365],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Woden",
+		"Location": "Woden Bus Station, access from Matilda Street",
+		"Point": [-35.343136, 149.087253],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Kambah",
+		"Location": "Kambah Centre - O'Halloran Circuit",
+		"Point": [-35.393088, 149.067983],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Gungahlin",
+		"Location": "Gungahlin Town Centre - Gozzard Street, access via Efkarpidis Street",
+		"Point": [-35.186843, 149.132396],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Weston",
+		"Location": "Coolemon Court, Liardet Street",
+		"Point": [-35.340347, 149.051397],
+		"Permit Type": "Permit Only"
+	},
+	{
+		"Suburb": "Chisholm",
+		"Location": "Chisholm Shops - Bentham Street",
+		"Point": [-35.414624, 149.128667],
+		"Permit Type": "No Permit Required"
+	},
+	{
+		"Suburb": "Tuggeranong",
+		"Location": "Tuggeranong Bus Station, access from Anketell Street",
+		"Point": [-35.41387, 149.06669],
+		"Permit Type": "Permit Only"
+	}
+]

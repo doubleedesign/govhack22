@@ -1,0 +1,79 @@
+[
+	{
+		"Facility": "Ainslie Arts Centre",
+		"Address": "Elouera Street, BRADDON ACT 2612",
+		"lat": -35.281746,
+		"lng": 149.122345,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/ainslie-arts-centre"
+	},
+	{
+		"Facility": "Gorman House Arts Centre",
+		"Address": "Ainslie Avenue, BRADDON ACT 2612",
+		"lat": -35.277752,
+		"lng": 149.137774,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/gorman-house-arts-centre"
+	},
+	{
+		"Facility": "Watson Arts Centre",
+		"Address": "1 Aspinall Street, WATSON ACT 2602",
+		"lat": -35.230757,
+		"lng": 149.155369,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/watson-arts-centre"
+	},
+	{
+		"Facility": "Belconnen Arts Centre",
+		"Address": "118 Emu Bank, BELCONNEN ACT 2617",
+		"lat": -35.235805,
+		"lng": 149.068165,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/belconnen-arts-centre"
+	},
+	{
+		"Facility": "Manuka Arts Centre",
+		"Address": "Corner of NSW Crescent and Manuka Circle, GRIFFITH ACT 2603",
+		"lat": -35.316561,
+		"lng": 149.135123,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/manuka-arts-centre"
+	},
+	{
+		"Facility": "Tuggeranong Arts Centre",
+		"Address": "137 Reed Street, GREENWAY ACT 2901",
+		"lat": -35.416125,
+		"lng":  149.070697,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/tuggeranong-arts-centre"
+	},
+	{
+		"Facility": "Canberra Contemporary Art Space",
+		"Address": "19 Furneaux Street, FORREST ACT 2603",
+		"lat": -35.3198,
+		"lng":  149.131401,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/canberra-contemporary-art-space"
+	},
+	{
+		"Facility": "Strathnairn",
+		"Address": "90 Stockdill Drive, BELCONNEN ACT 2615",
+		"lat": -35.232361,
+		"lng": 148.994479,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/strathnairn"
+	},
+	{
+		"Facility": "Canberra Glassworks",
+		"Address": "11 Wentworth Avenue, Kingston ACT 2604\n\n\n,",
+		"lat": -35.311518,
+		"lng": 149.143996,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/canberra-glassworks"
+	},
+	{
+		"Facility": "The Street Theatre",
+		"Address": "Corner of Childers Street and University Avenue, ACTON ACT 2601",
+		"lat": -35.27861,
+		"lng": 149.123762,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/the-street-theatre"
+	},
+	{
+		"Facility": "Canberra Glassworks Chapel",
+		"Address": "11 Wentworth Avenue, Kingston ACT 2604",
+		"lat": -35.310958,
+		"lng": 149.142966,
+		"URL": "http://www.arts.act.gov.au/our-arts-facilities/canberra-glassworks-chapel"
+	}
+]

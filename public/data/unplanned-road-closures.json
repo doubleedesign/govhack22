@@ -1,0 +1,3740 @@
+[
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "a989e2d9-ace1-4c4e-adf1-2d17472428b0",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Corin Road closed at Square Rock car park.",
+			"closure_end_time": "2018-08-13T01:03:00.000",
+			"closure_start_time": "2018-08-06T23:12:00.000",
+			"closure_description": "Inclement Weather",
+			"object_id": "224"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.9022802683117,
+				-35.52210043867757
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "537b7930-02b2-4ae5-9c8c-33fc7687a799",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "TESTING",
+			"closure_end_time": "2018-12-11T09:59:00.000",
+			"closure_start_time": "2018-12-11T08:58:00.000",
+			"closure_description": "",
+			"object_id": "310"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1119929132701,
+				-35.21694935372547
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "bd8d45b2-8669-4d99-be8a-70a6eb7a37e5",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events ",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2019-02-05T12:59:00.000",
+			"closure_start_time": "2019-01-31T20:00:00.000",
+			"closure_description": null,
+			"object_id": "299"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13456729143553,
+				-35.31814073976835
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "cbe0e8fd-6640-4ac1-b529-a0063b675f3f",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events.",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2019-02-09T12:59:00.000",
+			"closure_start_time": "2019-02-08T20:00:00.000",
+			"closure_description": null,
+			"object_id": "300"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1346339878126,
+				-35.31822914630358
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "a58f3d28-032d-4a1a-92a3-1af7473cf03a",
+			"closure_type": "charitableOrganisation",
+			"project_title": "RAIZE the Roof Charity Auction.",
+			"roads_closed": "CLANCY MCKENNA STREET between Peter Coppin Street and Irinyili\nStreet.<br>\nPlease Note: ACCESS to Local traffic will be maintained at all times.",
+			"closure_end_time": "2018-10-20T01:00:00.000",
+			"closure_start_time": "2018-10-19T21:30:00.000",
+			"closure_description": null,
+			"object_id": "301"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13836114320753,
+				-35.15572878904158
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ab114d9a-7285-4077-838a-3d0840ac3554",
+			"closure_type": "specialEvent",
+			"project_title": "Tuggeranong Community Council SouthFest 2018.",
+			"roads_closed": "CAR PARK: Corner of Cowlishaw Street and Reed Street (north).",
+			"closure_end_time": "2018-11-25T12:59:00.000",
+			"closure_start_time": "2018-11-22T19:00:00.000",
+			"closure_description": "",
+			"object_id": "302"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0692115799303,
+				-35.41610971202019
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "c42ef5ed-5c11-4410-abb3-20c0022d87da",
+			"closure_type": "specialEvent",
+			"project_title": "Tuggeranong Community Council SouthFest 2018.",
+			"roads_closed": "COWLISHAW STREET: Between Pitman Street to the driveway between the\nTuggeranong Community Centre and McDonalds.<br>\nCAR PARK: Corner of Pitman Street and Cowlishaw Street.",
+			"closure_end_time": "2018-11-24T12:59:00.000",
+			"closure_start_time": "2018-11-23T19:00:00.000",
+			"closure_description": null,
+			"object_id": "303"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.06834232463598,
+				-35.41436752230763
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e1438a50-0bce-4208-8e59-d3c6a490c8dd",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Cotter Road closed at the picnic area car park near Brindabella Road.",
+			"closure_end_time": "2018-11-04T19:42:00.000",
+			"closure_start_time": "2018-11-01T17:02:00.000",
+			"closure_description": "Bushfire at Pierces Creek",
+			"object_id": "304"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.94440747924256,
+				-35.32587922295524
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "58dfe40c-3344-4ccf-9f6e-9cd2a6e8cf13",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Tidbinbilla Road closed at Point Hut Road.",
+			"closure_end_time": "2018-11-03T05:11:00.000",
+			"closure_start_time": "2018-11-01T17:06:00.000",
+			"closure_description": "Bushfire at Pierces Creek",
+			"object_id": "305"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.03916246175783,
+				-35.45833540139369
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "c6bb9e15-a24e-4816-8af7-ea6095cbd322",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Kambah Pool Road closed from Kambah Pool to Mount Vernon Drive",
+			"closure_end_time": "2018-11-20T04:40:00.000",
+			"closure_start_time": "2018-11-02T20:54:00.000",
+			"closure_description": "Bushfire at Pierces Creek",
+			"object_id": "306"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0315567167388,
+				-35.38850160541372
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "be7ff2b9-f914-4e89-812d-a7dfe51aaff6",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Paddys River Road closed at Corin Road",
+			"closure_end_time": "2018-11-04T19:41:00.000",
+			"closure_start_time": "2018-11-03T05:29:00.000",
+			"closure_description": "Bushfire at Pierces Creek",
+			"object_id": "307"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.97587894634052,
+				-35.44994606376141
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "a3b22626-7f5d-42eb-ad0d-d7a32171a98b",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Horse Park Drive is closed northbound from the Federal Highway to Well Station Drive",
+			"closure_end_time": "2018-11-06T21:10:00.000",
+			"closure_start_time": "2018-11-06T19:21:00.000",
+			"closure_description": "Flooding",
+			"object_id": "308"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1838401125903,
+				-35.21318101336809
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "6342ec7d-7a5c-4c41-9a68-ef7c714307d0",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Bradley Street: Between the Woden Bus Interchange and the Taxi Rank at Bradley Street.",
+			"closure_end_time": "2018-11-12T22:00:00.000",
+			"closure_start_time": "2018-11-12T21:00:00.000",
+			"closure_description": "Request from ACTION Bus Services to facilitate pedestrian and vehicular traffic.",
+			"object_id": "309"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0868414019168,
+				-35.34509614834249
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "eba6ab47-b23b-408b-8668-49fa5e3e4553",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "\nWERE STREET, CALWELL: WERE ST and CASEY ST roundabout at Calwell is closed (near Calwell High) in both directions. ",
+			"closure_end_time": "2018-12-14T00:22:00.000",
+			"closure_start_time": "2018-12-13T06:10:00.000",
+			"closure_description": "Motor Vehicle Accident",
+			"object_id": "313"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.118889921088,
+				-35.43987386469747
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "8c6d73c2-3cbf-42f4-b7d0-5490cabbcfad",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Structure fire at Capital Executive Apartments, 108 Northbourne Ave\n\n",
+			"closure_end_time": "2018-12-14T00:22:00.000",
+			"closure_start_time": "2018-12-13T10:28:00.000",
+			"closure_description": "Structure Fire",
+			"object_id": "314"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13080308923273,
+				-35.2704366357067
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "3197b8ee-39de-4bd9-bd30-3cbc1672cc05",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Tree down on FLYNN DR, near ALBERT HALL\n",
+			"closure_end_time": "2018-12-14T00:23:00.000",
+			"closure_start_time": "2018-12-13T12:33:00.000",
+			"closure_description": "Tree down on Flynn Drive near Albert Hall",
+			"object_id": "315"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12381025646766,
+				-35.29687844629963
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "53db3910-01d3-4abd-b930-e3a5d259367e",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Due to resealing works and a collision on Gungahlin Dr Extension, major traffic delays on Barton Highway and Ellenborough St. Please use alt route. ",
+			"closure_end_time": "2018-12-17T23:29:02.000",
+			"closure_start_time": "2018-12-17T21:13:00.000",
+			"closure_description": "Resealing works and collision",
+			"object_id": "316"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.11829812888095,
+				-35.23203524329308
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "43843ff4-73b3-4c2c-beb3-b79fba89045d",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Glenloch Interchange: Parkes Way, Eastbound",
+			"closure_end_time": "2019-01-18T06:53:00.000",
+			"closure_start_time": "2019-01-18T03:06:00.000",
+			"closure_description": "Truck Rollover",
+			"object_id": "317"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1161943671812,
+				-35.286789910180396
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "72aa445c-b50a-4e99-ba7d-a7b158b563cb",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Elouera Street (citybound): between Northbourne Avenue and Mort Street. <br>\nMort Street (citybound): between Elouera Street and Cooyong Street.<br>\nCooyong Street (citybound): between Northbourne Avenue and Mort Street.",
+			"closure_end_time": "2019-01-30T14:10:00.000",
+			"closure_start_time": "2019-01-30T03:25:00.000",
+			"closure_description": "Incident",
+			"object_id": "318"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13133636694744,
+				-35.27423893045118
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "84322594-efa8-4099-9d9f-9f1016d789dd",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Mawson Drive westbound between Mawson Place and Heard Street.",
+			"closure_end_time": "2019-03-29T02:15:00.000",
+			"closure_start_time": "2019-03-26T23:33:00.000",
+			"closure_description": "Earlier structure fire",
+			"object_id": "319"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0945745924841,
+				-35.364237587198346
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "09f69f4a-3597-4ef7-a2e3-747fb9f0f826",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Mount Franklin Road is closed at Bulls Head.",
+			"closure_end_time": "2019-07-05T06:04:43.000",
+			"closure_start_time": "2019-05-10T02:50:00.000",
+			"closure_description": "",
+			"object_id": "320"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.80568224985683,
+				-35.38429858759935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "43195d54-7267-4bea-bb29-85ca1aedd25a",
+			"closure_type": "buildingConstruction",
+			"project_title": "Works associated with City to Lake project",
+			"roads_closed": "PUBLIC CAR PARK: The southern car park on the corner of Albert Street and Barrine Drive will be closed",
+			"closure_end_time": null,
+			"closure_start_time": "2016-10-17T01:15:00.000",
+			"closure_description": "",
+			"object_id": "16"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12650292180757,
+				-35.289483795403406
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e9c7749f-479a-4eb4-88b1-9cce957cf4cc",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Blocks 1 & 2, Section 114 Amaroo",
+			"roads_closed": "ABERFOYLE STREET BOTH DIRECTIONS: From Mornington Street to approximately 45 metres north of Mornington Street towards Balgarup Street.",
+			"closure_end_time": "2018-12-20T01:24:00.000",
+			"closure_start_time": "2017-03-23T01:23:00.000",
+			"closure_description": "",
+			"object_id": "17"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13202127846995,
+				-35.16559689742333
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "1a16ef7a-356b-426d-b84d-1bce60922845",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 6, Section 114 Amaroo.",
+			"roads_closed": "PIONEER STREET WESTBOUND DIRECTION: From Emerald Way to Balgarup Street.<br>\n9 am - 5 pm (daily) Monday to Friday and 7 am -12 midday Saturday’s on periodic days as required from Wednesday 2 August 2017 to Saturday 19 January 2019.",
+			"closure_end_time": "2019-01-19T01:28:00.000",
+			"closure_start_time": "2017-08-02T02:27:00.000",
+			"closure_description": "",
+			"object_id": "18"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13206236752058,
+				-35.16512452405585
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7a5cb57f-f868-43bf-93bb-076a5142f0ea",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 6, Section 114 Amaroo.\n",
+			"roads_closed": "PIONEER STREET WESTBOUND DIRECTION: From Emerald Way to Balgarup Street.<br>\nBALGARUP STREET SOUTHBOUND DIRECTION: From Pioneer Street to Aberfoyle Street.<br>\nABERFOYLE STREET BOTH DIRECTIONS: From Balgarup Street to the end.<br>\n6 am to 7 pm (daily) on periodic days as required Monday to Sunday.<br>\nfrom Thursday 7 September 2018 to Monday 31 August 2020.",
+			"closure_end_time": "2020-08-31T02:30:00.000",
+			"closure_start_time": "2017-09-06T20:00:00.000",
+			"closure_description": "",
+			"object_id": "19"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13115547083777,
+				-35.16540388395676
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "917ff190-f66e-4f65-badf-7e99b39ccad8",
+			"closure_type": "roadWorks",
+			"project_title": "Asphalt resurfacing works",
+			"roads_closed": "KATHERINE AVENUE BOTH DIRECTIONS: From Shoalhaven Avenue to the roundabout at the Amaroo school.<br>\nNARRAN STREET BOTH DIRECTIONS: From Yule Street to Katherine Avenue.<br>\nROLLSTON STREET BOTH DIRECTIONS: From Dulverton to Katherine Avenue.<br>\nBURDEKIN AVENUE BOTH DIRECTIONS: From the entrance to the Amaroo school to Katherine Avenue.\n",
+			"closure_end_time": "2018-07-20T06:30:00.000",
+			"closure_start_time": "2018-07-08T23:00:00.000",
+			"closure_description": "",
+			"object_id": "20"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12794822063086,
+				-35.166307193382174
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "95d59fa9-5540-4abe-90c2-05c45986c2d8",
+			"closure_type": "specialEvent",
+			"project_title": "National Police Remembrance Day",
+			"roads_closed": "KINGS AVENUE WESTBOUND DIRECTION: From Parkes Way to Macquarie Street.",
+			"closure_end_time": "2018-09-28T06:30:00.000",
+			"closure_start_time": "2018-09-28T05:00:00.000",
+			"closure_description": "",
+			"object_id": "21"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1366968781436,
+				-35.30447716027196
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "bb29dd43-1ab0-440a-afbc-540e3eb60097",
+			"closure_type": "specialEvent",
+			"project_title": "National Police Remembrance Day.",
+			"roads_closed": "KINGS AVENUE WESTBOUND DIRECTION: From Parkes Way to Macquarie Street.",
+			"closure_end_time": "2018-09-28T06:30:00.000",
+			"closure_start_time": "2018-09-28T06:00:00.000",
+			"closure_description": "",
+			"object_id": "22"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14036850681867,
+				-35.30212428191933
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b9ca3497-89bb-4cc8-a594-2854cf3ed807",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "EDMONSTONE PLACE BOTH DIRECTIONS: Will be closed at Cameron Avenue.\n\n7 am – 3 pm (daily) on periodic days as required from:\n\nThursday 5 July 2018 to Friday 6 July 2018; and\n\nMonday 9 July 2018 to Thursday 12 July 2018.\n\n",
+			"closure_end_time": "2018-07-12T05:00:00.000",
+			"closure_start_time": "2018-07-04T21:00:00.000",
+			"closure_description": "Crane Lift",
+			"object_id": "23"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0713277696044,
+				-35.24104138372283
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "248f3d9d-4df0-41fe-a318-3dce8e626b3c",
+			"closure_type": "lightRail",
+			"project_title": "Access for local residents will be maintained during these works.",
+			"roads_closed": "ELOUERA STREET BOTH DIRECTIONS: From Northbourne Avenue to Mort Street.",
+			"closure_end_time": "2018-07-28T08:00:00.000",
+			"closure_start_time": "2018-05-26T08:00:00.000",
+			"closure_description": null,
+			"object_id": "24"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13080054277174,
+				-35.2731213765367
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5557ad82-9674-41db-8ae2-e871b1f1db56",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 2, Section 52 Braddon (former Currong Flats site).",
+			"roads_closed": "CURRONG STREET NORTH NORTHBOUND DIRECTION: From Ainslie Avenue to Batman Street",
+			"closure_end_time": "2018-07-10T08:00:00.000",
+			"closure_start_time": "2017-07-19T21:00:00.000",
+			"closure_description": null,
+			"object_id": "25"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1367206242519,
+				-35.27811110135712
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b2fa1f2f-7bdd-4c6c-87a0-0613d2bf6788",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Girrahween Street and Masson Street.",
+			"closure_end_time": "2018-07-22T20:00:00.000",
+			"closure_start_time": "2018-06-08T23:30:00.000",
+			"closure_description": null,
+			"object_id": "26"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13058651676738,
+				-35.2703145436077
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7b980d8c-2401-4600-89cb-f6a68067ffaa",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Gould Street and Elouera Street.",
+			"closure_end_time": "2018-07-31T08:00:00.000",
+			"closure_start_time": "2018-06-12T22:00:00.000",
+			"closure_description": null,
+			"object_id": "27"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13007453142205,
+				-35.27298757730123
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0ab8c1e2-da46-4a24-93ba-a705cb4d35c1",
+			"closure_type": "specialEvent",
+			"project_title": "Cycling ACT Event – The National Capital Tour 2018.",
+			"roads_closed": "MASTERMAN STREET BOTH DIRECTIONS: From Braybrooke Street to the car park behind Bruce Stadium.",
+			"closure_end_time": "2018-10-14T04:30:00.000",
+			"closure_start_time": "2018-10-13T21:00:00.000",
+			"closure_description": "",
+			"object_id": "28"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.09935500880923,
+				-35.24964607721216
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "3709aaae-ef7b-412b-87b2-65c7e84887dc",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 133 Campbell.",
+			"roads_closed": "CRESWELL STREET BOTH DIRECTIONS: From Constitution Avenue to the southern side of the driveway to The Creswell complex.",
+			"closure_end_time": "2018-12-01T07:00:00.000",
+			"closure_start_time": "2017-07-21T20:00:00.000",
+			"closure_description": "",
+			"object_id": "29"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14699510002634,
+				-35.28844149441929
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "a93bf958-243b-4d7a-a579-46d9ea44b69e",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 132 Campbell.",
+			"roads_closed": "PROVAN STREET SOUTHERN STUB BOTH DIRECTIONS: Will be closed at Pentland Street.",
+			"closure_end_time": "2018-09-01T03:00:00.000",
+			"closure_start_time": "2017-01-25T20:00:00.000",
+			"closure_description": "",
+			"object_id": "30"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14336211286684,
+				-35.289498189612196
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "cbfaaf8d-f61e-40a2-9cb0-4adc0661b4ac",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 131 Campbell.",
+			"roads_closed": "PENTLAND STREET BOTH DIRECTIONS: From Kalma Way to Provan Street.<br>\nPROVAN STREET SOUTHERN STUB BOTH DIRECTIONS: Will be closed at Pentland Street.\n",
+			"closure_end_time": "2020-01-01T07:00:00.000",
+			"closure_start_time": "2018-06-03T21:00:00.000",
+			"closure_description": "",
+			"object_id": "31"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.143471648211,
+				-35.289605737042045
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e7ccd2c0-f8c1-40b4-8d38-fc90849f6c05",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of the Campbell 5 precinct.",
+			"roads_closed": "PENTLAND STREET BOTH DIRECTIONS: Between Anzac Park East and Kalma Way.",
+			"closure_end_time": "2018-09-01T07:00:00.000",
+			"closure_start_time": "2017-02-19T20:00:00.000",
+			"closure_description": "",
+			"object_id": "32"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14327324325893,
+				-35.28949236859229
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0c557791-7b0f-49ab-8644-518c51624dcb",
+			"closure_type": "buildingConstruction",
+			"project_title": "Eclipse House building refurbishment works",
+			"roads_closed": "HILLSIDE LANE WESTERN ENTRANCE: Will be closed at Akuna Street.",
+			"closure_end_time": "2018-09-30T08:00:00.000",
+			"closure_start_time": "2017-12-01T07:00:00.000",
+			"closure_description": "",
+			"object_id": "33"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1323611666079,
+				-35.281754038298075
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "3948e664-5a50-48e2-adb2-3ae62c5537f4",
+			"closure_type": "buildingConstruction",
+			"project_title": "Tower crane installation",
+			"roads_closed": "HOBART PLACE BOTH DIRECTIONS: From London Circuit to approximately 60 metres west towards Marcus Clarke Street.\n\n6 am Saturday 28 July 2018 to 6 pm Sunday 29 July 2018; and\n\n6 am Saturday 4 August 2018 to 6 pm Sunday 5 August 2018.\n",
+			"closure_end_time": "2018-08-05T08:00:00.000",
+			"closure_start_time": "2018-07-27T20:00:00.000",
+			"closure_description": null,
+			"object_id": "34"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12676932659718,
+				-35.27911840979289
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "853eec45-d4a7-4603-9376-914d57b73c81",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Mt Franklin Road (both directions): closed at Bendora Arboretum gate (car park).",
+			"closure_end_time": "2019-07-17T00:03:00.000",
+			"closure_start_time": "2019-05-27T00:24:00.000",
+			"closure_description": "",
+			"object_id": "321"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.7958721838374,
+				-35.392937410695275
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "c1a563a0-56a3-459e-ae3c-ac2627a9d1e8",
+			"closure_type": "buildingConstruction",
+			"project_title": "Site compound and construction material handling area for construction activities undertaken within the Australian National University.",
+			"roads_closed": "PUBLIC CAR PARK: Located on the northern side of The Street Theatre (Block 5, Section 30 City). ",
+			"closure_end_time": "2018-11-30T07:00:00.000",
+			"closure_start_time": "2016-11-30T20:00:00.000",
+			"closure_description": "",
+			"object_id": "35"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1253287772381,
+				-35.278707275851154
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "36eb0b2b-1907-4370-9cd2-eabb6a870cdd",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 3, Section 12 City.",
+			"roads_closed": "RABAUL LANE SOUTHBOUND DIRECTION: Will be closed from Akuna Street to approximately 100 metres southwest towards Nangari Street.\n",
+			"closure_end_time": "2018-09-27T08:00:00.000",
+			"closure_start_time": "2016-09-26T21:00:00.000",
+			"closure_description": "",
+			"object_id": "36"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13285515481329,
+				-35.28188353215406
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "60714b64-70f4-49b4-9959-4c7366dc86b1",
+			"closure_type": "buildingConstruction",
+			"project_title": "Crane lift of building materials associated with the ACT Law Courts project.",
+			"roads_closed": "KNOWLES PLACE: Will be closed from the London Circuit car park entry/exit to the City Police station car park entry/exit.\n\n5 am – 6 pm (daily):\n\nSaturday 7 July 2018;\n\nSunday 8 July 2018;\n\nSaturday 14 July 2018; and\n\nSunday 15 July 2018.\n",
+			"closure_end_time": "2018-07-15T08:00:00.000",
+			"closure_start_time": "2018-07-06T19:00:00.000",
+			"closure_description": null,
+			"object_id": "37"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12704545656015,
+				-35.280830109985345
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7f8429ef-69e0-4cf8-81f6-27a9aaa93b45",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 3, Section 37 Coombs.",
+			"roads_closed": "JOHN GORTON DRIVE SERVICE ROAD: From John Gorton Drive to Blackmore Street.<br>\n7 am – 5 pm (daily) Monday to Friday and 7 am – 1 pm Saturday’s on periodic days as required from Monday 24 July 2017 to Saturday 1 September 2018.",
+			"closure_end_time": "2018-09-01T03:00:00.000",
+			"closure_start_time": "2017-07-23T21:00:00.000",
+			"closure_description": "",
+			"object_id": "38"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0367166142591,
+				-35.318838627698355
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4cc0eb99-609d-466d-8031-98aff9f5c448",
+			"closure_type": "specialEvent",
+			"project_title": "Triathlon ACT – Stromlo Duathlon Championships.",
+			"roads_closed": "URIARRA ROAD: Between Opperman Avenue and Uriarra East Reserve.<br>\nOPPERMAN AVENUE: Between John Gorton Drive and Uriarra Road.<br>\nDAVE MCINNESS ROAD: At the intersection with Uriarra Road.\n",
+			"closure_end_time": "2018-09-01T03:00:00.000",
+			"closure_start_time": "2018-08-31T22:00:00.000",
+			"closure_description": "",
+			"object_id": "39"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.02707494177065,
+				-35.313604812950786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "2042aa97-90f6-428f-b2de-4f2d3dc31c52",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE SOUTHBOUND DIRECTION: From the Barton Highway to Mouat Street / Antill Street.<br>\n8 pm – 6 am (nightly) on periodic nights as required Sunday to Thursday from Monday 2 July 2018 to Friday 21 December 2018.\n",
+			"closure_end_time": "2018-12-20T19:00:00.000",
+			"closure_start_time": "2018-07-02T10:00:00.000",
+			"closure_description": "",
+			"object_id": "40"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13458475731898,
+				-35.244480364535136
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "1f2a04a9-b90f-4b07-8cc4-39221a229c04",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.\n",
+			"roads_closed": "SWINDEN STREET BOTH DIRECTIONS: Between Northbourne Avenue and Northbourne Avenue service road.",
+			"closure_end_time": "2018-07-28T10:00:00.000",
+			"closure_start_time": "2018-04-25T10:00:00.000",
+			"closure_description": null,
+			"object_id": "41"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1356004786087,
+				-35.24430331954154
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f87da9ba-9bb7-4e91-a8ab-ab1c464005a6",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FEDERAL HIGHWAY MEDIAN CROSSOVER: At the intersection of Phillip Avenue.",
+			"closure_end_time": "2018-07-14T08:00:00.000",
+			"closure_start_time": "2018-07-06T21:00:00.000",
+			"closure_description": null,
+			"object_id": "42"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1435361901403,
+				-35.236115321408604
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "78fb0956-f617-4c73-9b89-903ff3c5f2ff",
+			"closure_type": "buildingConstruction",
+			"project_title": "Civil works associated with the Gungahlin Town Centre Estate project.",
+			"roads_closed": "KATE CRACE STREET BOTH DIRECTIONS: From Camilleri Way to Efkarpidis Street.<br>\nTHE VALLEY AVENUE BOTH DIRECTIONS: From Hinder Street to Manning Clark Crescent.\n",
+			"closure_end_time": "2018-11-30T06:00:00.000",
+			"closure_start_time": "2018-07-24T23:30:00.000",
+			"closure_description": "",
+			"object_id": "43"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1389453917693,
+				-35.187610493158026
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "3a2fee49-5092-4edc-ab6a-d95781c85392",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (South). \nFLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Wizard Street.\n",
+			"closure_end_time": "2018-04-16T06:00:00.000",
+			"closure_start_time": "2018-04-15T23:30:00.000",
+			"closure_description": null,
+			"object_id": "44"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1510076829444,
+				-35.19372322149301
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "fb897df9-0f2f-4e8c-aa71-db724a267d05",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Blocks 3 & 4, Section 85 Fyshwick.",
+			"roads_closed": "BEACONSFIELD STREET / TOM PRICE STREET NORTHBOUND DIRECTION: From The Iron Knob Street / Tom Price Street roundabout to approximately 125 metres southeast of Lenora Street.",
+			"closure_end_time": "2019-01-01T09:00:00.000",
+			"closure_start_time": "2017-08-06T20:00:00.000",
+			"closure_description": "",
+			"object_id": "45"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1833394524789,
+				-35.33728742969311
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "d13dfbc5-8135-478c-b827-0ca9c4be458b",
+			"closure_type": "other",
+			"project_title": "Please note access for emergency and maintenance vehicles will be maintained at all times.",
+			"roads_closed": "BARTLETT PLACE: adjacent to number 25 Bartlett Place.\n\n\n",
+			"closure_end_time": null,
+			"closure_start_time": "2016-11-28T04:45:00.000",
+			"closure_description": "To prevent illegal dumping and vandalism in the area",
+			"object_id": "46"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.06419640216723,
+				-35.4114806498115
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7f461e6b-ed0c-42d3-ac74-d4b8ab4a4ed8",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 4 Section 25 Griffith.",
+			"roads_closed": "LEICHHARDT STREET WESTBOUND DIRECTION: From the driveway of 76 Leichhardt Street to the rear driveway of 113 Canberra Avenue.",
+			"closure_end_time": "2019-10-16T07:00:00.000",
+			"closure_start_time": "2018-04-16T21:00:00.000",
+			"closure_description": "",
+			"object_id": "47"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14408521568174,
+				-35.31998481487245
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b92373c2-a6dc-4bcb-a7e7-0609999382ba",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 68 Gungahlin.",
+			"roads_closed": "GUNGAHLIN PLACE SOUTHBOUND DIRECTION: From Sarre Street to Anthony Rolfe Avenue.<br>\n7 am – 5 pm (daily) Monday to Saturday on periodic days as required.",
+			"closure_end_time": "2019-03-02T06:00:00.000",
+			"closure_start_time": "2018-01-15T04:51:00.000",
+			"closure_description": "",
+			"object_id": "48"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13579565530938,
+				-35.18291226688948
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4acdd50b-6911-424d-b48d-67d09260746c",
+			"closure_type": "buildingConstruction",
+			"project_title": "Works associated with the Gungahlin Bus Station project.",
+			"roads_closed": "HIBBERSON STREET BOTH DIRECTIONS: From Gozzard Street to Gungahlin Place (West).\n",
+			"closure_end_time": "2018-08-31T07:00:00.000",
+			"closure_start_time": "2018-04-21T07:00:00.000",
+			"closure_description": "",
+			"object_id": "49"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13346734027056,
+				-35.18530424506266
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f32273dd-ef4d-45b1-a8cd-7a569a2562f4",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD SOUTHBOUND DIRECTION: From Kate Crace Street to Manning Clark Crescent (North).",
+			"closure_end_time": "2018-08-31T08:00:00.000",
+			"closure_start_time": "2018-06-02T08:00:00.000",
+			"closure_description": "",
+			"object_id": "50"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14169899215722,
+				-35.1865266601522
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "9a68c41c-5c70-4c71-bd5d-6b124b47d466",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 2, Section 224 Gungahlin.",
+			"roads_closed": "SWAIN STREET WESTBOUND DIRECTION: From Gribble Street to approximately 110 metres east towards Gozzard Street.",
+			"closure_end_time": "2020-05-01T08:00:00.000",
+			"closure_start_time": "2018-05-16T21:00:00.000",
+			"closure_description": "",
+			"object_id": "51"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13221596168688,
+				-35.18109807683812
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "bdbf5dfc-ba4d-4d2e-bfc7-270261334452",
+			"closure_type": "buildingConstruction",
+			"project_title": "Installation of underground services associated with the development of Block 5, Section 209 Gungahlin.\n",
+			"roads_closed": "GRIBBLE STREET BOTH DIRECTIONS: From Anthony Rolfe Avenue to approximately 70 metres north of Anthony Rolfe Avenue towards Swain Street.",
+			"closure_end_time": "2018-07-14T09:00:00.000",
+			"closure_start_time": "2018-06-24T21:00:00.000",
+			"closure_description": null,
+			"object_id": "52"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1314377527152,
+				-35.18221196782336
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5a1eb9e0-cc90-4453-88f7-0608e8de7de2",
+			"closure_type": "buildingConstruction",
+			"project_title": "Crane lift of building materials",
+			"roads_closed": "KATE CRACE STREET SOUTHBOUND DIRECTION: From Anthony Rolfe Avenue to Flemington Road.<br>\n9 am – 6 pm (daily) on periodic days as required Monday to Friday",
+			"closure_end_time": "2018-10-29T07:00:00.000",
+			"closure_start_time": "2018-06-20T23:00:00.000",
+			"closure_description": "",
+			"object_id": "53"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13949929321535,
+				-35.18528017243017
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b3a73c5e-716d-426a-bdfd-ba2a1e76a07c",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 68 Gungahlin.",
+			"roads_closed": "DONNELLY LANE: From Sarre Street to Huyer Street.",
+			"closure_end_time": "2019-03-02T06:00:00.000",
+			"closure_start_time": "2018-01-14T20:00:00.000",
+			"closure_description": "",
+			"object_id": "54"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13632807961545,
+				-35.18289052906272
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "29307975-0a69-4ff1-967b-ae1543bfbd24",
+			"closure_type": "roadWorks",
+			"project_title": "Roadworks associated with the Old Well Station Road upgrade project.",
+			"roads_closed": "OLD WELL STATION BOTH DIRECTIONS: From the Federal Highway to the EPIC car park entry / exit located approximately 385 metres north of the Federal Highway.<br>\nAccess to Canberra Park accommodation will be maintained via Flemington Road / Morisset Road.\n\n\n",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-05-06T23:30:00.000",
+			"closure_description": "",
+			"object_id": "55"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1532495244859,
+				-35.22685390881728
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7fe08544-86c3-4260-aa91-ce868ebb46f7",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD NORTHBOUND DIRECTION: From the Federal Highway to Sandford Street / Morisset Road.\nRANDWICK ROAD BOTH DIRECTIONS: From Flemington Road to approximately 120 metres west of Flemington Road towards the Barton Highway.\nFLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Sandford Street / Morisset Road.\n",
+			"closure_end_time": "2018-07-14T20:00:00.000",
+			"closure_start_time": "2018-06-23T10:00:00.000",
+			"closure_description": null,
+			"object_id": "56"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14384182636002,
+				-35.22610966752191
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "10f0d335-c63b-45f8-9827-dc28076a29f1",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD BOTH DIRECTIONS: From Morisset Road / Sandford Street to Well Station Drive.\nLYSAGHT STREET EASTBOUND DIRECTION: From Darling Street to Flemington Road.\n",
+			"closure_end_time": "2018-07-22T20:00:00.000",
+			"closure_start_time": "2018-07-08T10:00:00.000",
+			"closure_description": null,
+			"object_id": "57"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14554882877184,
+				-35.216092071774234
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d9a8b1e5-f35c-4202-a1a1-4e89a735d85d",
+			"closure_type": "lightRail",
+			"project_title": "LRV testing associated with the Transport Canberra Light Rail project.\n",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (South).<br>\nFLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Nullarbor Avenue.<br>\n10 pm – 6 am (nightly) Monday to Sunday.\n",
+			"closure_end_time": "2018-08-30T20:00:00.000",
+			"closure_start_time": "2018-06-26T12:00:00.000",
+			"closure_description": "",
+			"object_id": "58"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1507488538802,
+				-35.1940508684153
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "028fa280-d026-4ed6-b83a-82ee867f5235",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "WOODS LANE: Approximately 1km south from Willmetts Street.",
+			"closure_end_time": null,
+			"closure_start_time": "2016-09-11T14:00:00.000",
+			"closure_description": "To prevent illegal dumping and vandalism in the area",
+			"object_id": "59"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.2041723693232,
+				-35.34681367818279
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "93574ec4-a5b1-49c6-be9b-37b8d1c38ef9",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Block 1, Section 60 Kingston.",
+			"roads_closed": "DAWES STREET BOTH DIRECTIONS: From Parbery Street to The Causeway.<br>\nCUNNINGHAM STREET BOTH DIRECTIONS: From Parbery Street to The Causeway.<br>\nPARBERY STREET BOTH DIRECTIONS: From Cunningham Street to Waygoose Street.<br>\nPERCY DOUGLAS LANE: Will be closed at Parbery Street.<br>\nPARBERY STREET BOTH DIRECTIONS: From Waygoose Street to Dawes Street.<br>\nCHARLES FRANCIS LANE: Will be closed at Parbery Street.<br>\n6 am – 6 pm (daily) Monday to Saturday on periodic days as required.<br>\nOnly one closure of either Dawes Street, Cunningham Street or Parbery Street will be implemented at any given time.\n",
+			"closure_end_time": "2019-04-01T07:00:00.000",
+			"closure_start_time": "2017-11-19T19:00:00.000",
+			"closure_description": "",
+			"object_id": "60"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14894766827615,
+				-35.316709556005456
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "25676354-5024-4ca5-9c14-e1ca693702f4",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "RANDWICK ROAD BOTH DIRECTIONS: From Flemington Road to approximately 120 metres west of Flemington Road towards the Barton Highway. \nFLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Randwick Road.\n",
+			"closure_end_time": "2018-07-15T18:00:00.000",
+			"closure_start_time": "2018-07-13T10:00:00.000",
+			"closure_description": null,
+			"object_id": "61"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14426273376898,
+				-35.22783044262629
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0b4d9a7e-47bd-465c-9d0e-2b9b90f27bcd",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE SOUTHBOUND MEDIAN CROSSOVER: Into Murdoch Street will be closed.",
+			"closure_end_time": "2018-07-22T18:00:00.000",
+			"closure_start_time": "2018-07-08T23:30:00.000",
+			"closure_description": null,
+			"object_id": "62"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13315868606526,
+				-35.25263371918104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f73f848d-22a7-4416-803d-4034277460c6",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE NORTHBOUND MEDIAN CROSSOVER: Into Morphett Street will be closed.\n",
+			"closure_end_time": "2018-07-22T18:00:00.000",
+			"closure_start_time": "2018-07-08T23:30:00.000",
+			"closure_description": null,
+			"object_id": "63"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13346635630074,
+				-35.253647419501085
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0a45ae86-9e5c-4eda-9e26-799dee77a553",
+			"closure_type": "specialEvent",
+			"project_title": "Cycling ACT Event – The National Capital Tour 2018.",
+			"roads_closed": "MAJURA ROAD BOTH DIRECTIONS: From Mustang Avenue to Lime Kiln Road.<br>\nMOUNT MAJURA ROAD: From Majura Parkway.<br>\nLIME KILN ROAD BOTH DIRECTIONS: From Majura Road to Mount Majura Road.\n",
+			"closure_end_time": "2018-10-13T06:00:00.000",
+			"closure_start_time": "2018-10-12T21:00:00.000",
+			"closure_description": "",
+			"object_id": "64"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.19511292434527,
+				-35.22288836048904
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "8d48a504-c903-4304-a4df-dad09b6a3fd7",
+			"closure_type": "roadWorks",
+			"project_title": "Asphalt resurfacing works.",
+			"roads_closed": "SANDFORD STREET BOTH DIRECTIONS: From Hoskins Street to Flemington Road.\nGRIMWADE STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\nKEMBLE COURT: Will be closed at Sandford Street.\nBROOKES STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\nWINCHCOMBE COURT: Will be closed at Sandford Street.\nDARLING STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\n",
+			"closure_end_time": "2018-05-06T20:00:00.000",
+			"closure_start_time": "2018-05-04T10:00:00.000",
+			"closure_description": null,
+			"object_id": "65"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14045123762753,
+				-35.22063519058096
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "be3754a4-d685-4485-a5e8-338a0a6d09d1",
+			"closure_type": "roadWorks",
+			"project_title": "Asphalt resurfacing works.",
+			"roads_closed": "SANDFORD STREET BOTH DIRECTIONS: From Hoskins Street to Flemington Road.\nGRIMWADE STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\nKEMBLE COURT: Will be closed at Sandford Street.\nBROOKES STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\nWINCHCOMBE COURT: Will be closed at Sandford Street.\nDARLING STREET BOTH DIRECTIONS: Will be closed at Sandford Street.\n",
+			"closure_end_time": "2018-05-06T20:00:00.000",
+			"closure_start_time": "2018-05-04T10:00:00.000",
+			"closure_description": null,
+			"object_id": "66"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14058060444097,
+				-35.22039309812926
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e3bcd210-c65f-4e18-9ace-ca31bb9d5518",
+			"closure_type": "specialEvent",
+			"project_title": "Wall to Wall Ride for Remembrance.",
+			"roads_closed": "WENDOUREE DRIVE: From Kings Avenue to the footpath crossing on Wendouree Drive at Kings Park.",
+			"closure_end_time": "2018-09-15T07:00:00.000",
+			"closure_start_time": "2018-09-14T22:00:00.000",
+			"closure_description": "",
+			"object_id": "67"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14439717565244,
+				-35.299616568080125
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ee8dbec9-fd95-4e1b-aa97-e1f352a01c02",
+			"closure_type": "specialEvent",
+			"project_title": "National Police Remembrance Day.",
+			"roads_closed": "WENDOUREE DRIVE: From Kings Avenue to Blundell’s Cottage.",
+			"closure_end_time": "2018-09-28T08:00:00.000",
+			"closure_start_time": "2018-09-27T17:00:00.000",
+			"closure_description": "",
+			"object_id": "68"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14271064584457,
+				-35.29425643997384
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "79d710b9-e287-4e86-b79e-094ce5a2a036",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "CORINNA STREET BOTH DIRECTIONS: From Brewer Street to the roundabout to the Westfield Woden underground car park.",
+			"closure_end_time": "2018-07-12T21:30:00.000",
+			"closure_start_time": "2018-07-03T19:00:00.000",
+			"closure_description": "Crane Lift",
+			"object_id": "69"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.08445473217773,
+				-35.34703652584423
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d38f76dd-db9b-40d5-a146-deba5a2897e6",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the redevelopment of Block 8, Section 24 Phillip.",
+			"roads_closed": "IRVING STREET BOTH DIRECTIONS: From Irving Street to approximately 80 metres north towards the Southern Cross health club car park.",
+			"closure_end_time": "2019-10-31T07:00:00.000",
+			"closure_start_time": "2017-11-07T20:00:00.000",
+			"closure_description": "",
+			"object_id": "70"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.08527285186818,
+				-35.33857498949328
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "725489dc-23bd-4824-b31a-b4903786191d",
+			"closure_type": "buildingConstruction",
+			"project_title": "Westfield Woden building construction works.",
+			"roads_closed": "BRADLEY STREET: From Corinna Street to Neptune Street.",
+			"closure_end_time": "2019-04-26T06:00:00.000",
+			"closure_start_time": "2018-06-29T20:00:00.000",
+			"closure_description": "",
+			"object_id": "71"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.08730487197477,
+				-35.34681434897178
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "839a0065-a017-43ee-a228-4fabf81ca248",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "MOUNT FRANKLIN ROAD: Closed at Snow Gum gate.<br>\nThere is no access to Franklin Chalet, Mt Ginini or Mt Aggie.\n",
+			"closure_end_time": "2018-08-13T03:25:00.000",
+			"closure_start_time": "2018-06-16T00:00:00.000",
+			"closure_description": "Dangerous Conditions",
+			"object_id": "72"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.77636853512394,
+				-35.485437317237825
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "721f0eec-b0b8-4ed5-aed5-1615c7cb9409",
+			"closure_type": "roadWorks",
+			"project_title": "Tharwa Bridge maintenance works.",
+			"roads_closed": "THARWA DRIVE BOTH DIRECTIONS: From the Lanyon Homestead driveway to the Naas Road / North Street intersection.",
+			"closure_end_time": "2018-07-27T05:30:00.000",
+			"closure_start_time": "2018-07-17T23:00:00.000",
+			"closure_description": null,
+			"object_id": "73"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.07865384301988,
+				-35.49976449392712
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "02cdfe5a-5524-453f-b9b2-fa8cbdad0e13",
+			"closure_type": "specialEvent",
+			"project_title": "Wall to Wall Ride for Remembrance.",
+			"roads_closed": "FEDERAL HIGHWAY SOUTHBOUND DIRECTION: From Antill Street to Flemington Road.\n",
+			"closure_end_time": "2018-09-15T05:45:00.000",
+			"closure_start_time": "2018-09-15T03:00:00.000",
+			"closure_description": "",
+			"object_id": "74"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1565949027883,
+				-35.22723468940643
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "44204676-27b0-4093-a34d-b307882d9681",
+			"closure_type": "buildingConstruction",
+			"project_title": "None",
+			"roads_closed": "JOHN GORTON DRIVE SERVICE ROAD (NORTHBOUND DIRECTION): Between Opperman Avenue and Coaldrake Avenue.",
+			"closure_end_time": "2018-08-30T07:00:00.000",
+			"closure_start_time": "2018-05-23T21:00:00.000",
+			"closure_description": "",
+			"object_id": "75"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0312821774492,
+				-35.31023263583925
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "2f28655b-a3d9-4a71-95a8-0b6b988b6349",
+			"closure_type": "utilities",
+			"project_title": "ICON Water maintenance works.",
+			"roads_closed": "BENTHAM STREET BOTH DIRECTIONS: From Novar Street to approximately 15 metres west towards Hutchins Street.<br>\n<br>\nBENTHAM STREET BOTH DIRECTIONS: From Novar Street to approximately 40 metres east towards Mueller Street.<br>\n9 am – 4.30 pm Monday to Friday;<br>\n7 am – 5 pm Saturdays; and<br>\n8 am – 5 pm Sundays<br>\nClosures will in place be periodic days as required\n\n",
+			"closure_end_time": "2018-08-30T06:30:00.000",
+			"closure_start_time": "2018-06-18T23:00:00.000",
+			"closure_description": "",
+			"object_id": "76"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.09785256518438,
+				-35.30773192306295
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "507da4b7-246e-4659-86a9-01495459da47",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra\nLight Rail project",
+			"roads_closed": "FLEMINGTON ROAD BOTH DIRECTIONS: From Randwick Road to the Federal Highway.",
+			"closure_end_time": "2018-07-26T20:00:00.000",
+			"closure_start_time": "2018-07-15T10:00:00.000",
+			"closure_description": "",
+			"object_id": "173"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1446687221246,
+				-35.23045366428129
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ca15a584-6914-489f-a4f8-a1778de094ba",
+			"closure_type": "utilities",
+			"project_title": "To safely construct a new watermain across Emu Bank associated with the development of Block 19, Section 48 Belconnen.",
+			"roads_closed": "EMU BANK BOTH DIRECTIONS: Between Eastern Valley Way and the Cohen Street busway.",
+			"closure_end_time": "2018-07-22T20:00:00.000",
+			"closure_start_time": "2018-07-13T00:00:00.000",
+			"closure_description": null,
+			"object_id": "174"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.07349138360888,
+				-35.239680592473604
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "2b2b3af7-885c-470c-8603-d80b6f715bea",
+			"closure_type": "specialEvent",
+			"project_title": "Cycling ACT Event – The National Capital Tour 2018.",
+			"roads_closed": "MAJURA ROAD BOTH DIRECTIONS: From Mustang Avenue to Lime Kiln Road.\nMOUNT MAJURA ROAD: From Majura Parkway.\nLIME KILN ROAD BOTH DIRECTIONS: From Majura Road to Mount Majura Road.",
+			"closure_end_time": "2018-08-02T07:00:00.000",
+			"closure_start_time": "2018-08-01T22:00:00.000",
+			"closure_description": "",
+			"object_id": "175"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1954393783093,
+				-35.22281398048405
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "baf3e05d-9549-419d-82b1-9edd5e965c02",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "CHILDERS STREET: At University Avenue.",
+			"closure_end_time": "2018-08-25T07:00:00.000",
+			"closure_start_time": "2018-08-24T22:00:00.000",
+			"closure_description": "ANU Open Day",
+			"object_id": "176"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12395757377857,
+				-35.27897213607902
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d64dd7e1-3152-4f54-bdc0-f3374f370605",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (south).<br>\n10 pm – 6 am (nightly) Monday to Sunday",
+			"closure_end_time": "2018-08-30T20:00:00.000",
+			"closure_start_time": "2018-07-20T12:00:00.000",
+			"closure_description": "",
+			"object_id": "177"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15089297343968,
+				-35.19382921051332
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d13c5c06-f2ec-452a-b835-fb6c34cc807c",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Boboyan Road access is restricted to four-wheel drive vehicles only.",
+			"closure_end_time": "2018-08-17T02:00:00.000",
+			"closure_start_time": "2018-07-20T14:00:00.000",
+			"closure_description": "Inclement Weather",
+			"object_id": "178"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.05108230555743,
+				-35.60148129042177
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "2660fd19-7027-4219-9397-ce4d803a3a1a",
+			"closure_type": "lightRail",
+			"project_title": "Median Intersection Closure for Storm water installation.",
+			"roads_closed": "PHILLIP AVENUE BOTH DIRECTIONS: At intersection with Federal Highway.",
+			"closure_end_time": "2018-08-31T08:00:00.000",
+			"closure_start_time": "2018-07-14T08:00:00.000",
+			"closure_description": "",
+			"object_id": "179"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14379297821648,
+				-35.236308834666424
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "da214b98-bb5d-4768-8c18-8ee6b3b3d2be",
+			"closure_type": "utilities",
+			"project_title": "Trenching for the installation of HV supply to Blk. 3 Sec. 12.",
+			"roads_closed": "RABAUL LANE BOTH DIRECTIONS: Between Waldorf car park and rear car park.<br>\n(Saturdays and Sundays only)",
+			"closure_end_time": "2018-08-19T08:00:00.000",
+			"closure_start_time": "2018-08-03T20:00:00.000",
+			"closure_description": "",
+			"object_id": "180"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13296046052903,
+				-35.28207406003793
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0c2f0f99-e5f1-4965-a839-107553c4d168",
+			"closure_type": "utilities",
+			"project_title": "ANU watermain installation works.",
+			"roads_closed": "DALEY ROAD BOTH DIRECTIONS: From Science Road to approximately 40 metres north of Science Road.",
+			"closure_end_time": "2018-08-31T08:00:00.000",
+			"closure_start_time": "2018-07-31T21:00:00.000",
+			"closure_description": "",
+			"object_id": "181"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1178616568086,
+				-35.27374178809566
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e07c16b3-a981-4853-95b1-cdf27fefee48",
+			"closure_type": "utilities",
+			"project_title": "Watermain installation works associated with the redevelopment of Block 4 Section 25 Griffith.",
+			"roads_closed": "LEICHHARDT STREET EASTBOUND DIRECTION: From the driveway of 76 Leichhardt Street to the rear driveway of 113 Canberra Avenue.",
+			"closure_end_time": "2018-10-31T06:00:00.000",
+			"closure_start_time": "2018-08-01T21:00:00.000",
+			"closure_description": "",
+			"object_id": "182"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14420854587655,
+				-35.320001389468196
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "85095b1c-8c79-41f9-ad30-c11f5b2ddc17",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "KATE CRACE STREET NORTHBOUND DIRECTION: FromEfkarpidis Street to Anthony Rolfe Avenue.<br>\nKATE CRACE STREET SOUTHBOUND DIRECTION: From Anthony Rolfe Avenue to Flemington Road.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday and 7 am – 6 pm (daily) Saturdays ",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "183"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13949449871728,
+				-35.18530760359601
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "923a92f7-30c9-47aa-8053-185d57fa1a88",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Wizard Street.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-29T23:30:00.000",
+			"closure_description": "",
+			"object_id": "184"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14894575292294,
+				-35.18803009092187
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e32540a3-3e87-47a0-9e8d-03411663a345",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "HINDER STREET BOTH DIRECTIONS: From approximately 40 metres south of Hibberson Street to approximately 40 metres north of Hibberson Street.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday and 7 am – 6 pm (daily) Saturdays.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-29T23:30:00.000",
+			"closure_description": "",
+			"object_id": "185"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1371045613118,
+				-35.18580995905471
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "238e46c0-b929-43e0-8a85-0048427ced12",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FEDERAL HIGHWAY NORTHBOUND DIRECTION: From Phillip Avenue to Flemington Road.",
+			"closure_end_time": "2018-08-12T18:00:00.000",
+			"closure_start_time": "2018-08-03T12:00:00.000",
+			"closure_description": null,
+			"object_id": "186"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1451852025839,
+				-35.234721183927626
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "1db7d0f8-074f-4653-935b-173912b5e89d",
+			"closure_type": "buildingConstruction",
+			"project_title": "Crane lift.",
+			"roads_closed": "MARCUS CLARKE STREET BOTH DIRECTIONS: From the driveway access / egress to 19 Marcus Clarke Street to approximately 90 metres east of Phillip Law Street.",
+			"closure_end_time": "2018-10-30T07:00:00.000",
+			"closure_start_time": "2018-07-30T20:00:00.000",
+			"closure_description": "",
+			"object_id": "187"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12495657094928,
+				-35.28421765261255
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "37e7efeb-9a5d-47c2-b682-b2aee82c1a80",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "BARRY DRIVE BOTH DIRECTIONS: From Northbourne Avenue to Moore Street.",
+			"closure_end_time": "2018-08-12T18:00:00.000",
+			"closure_start_time": "2018-08-10T12:00:00.000",
+			"closure_description": null,
+			"object_id": "188"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12878456183307,
+				-35.275679363808095
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "fcb9abd3-512f-4e42-8530-539f5c0d19c2",
+			"closure_type": "lightRail",
+			"project_title": " Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Manning Clark Crescent (North).<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "189"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15076055274812,
+				-35.19383456295311
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "dd3264c0-3e6d-4046-8fb3-57a583cae29d",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Well Station Drive will be closed.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday from Tuesday 31 July 2018 to Friday 31 August 2018.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "190"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14743464124626,
+				-35.208599283106444
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "3b419bd8-5ec7-4bbe-bf45-6753271d955f",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Girrahween Street and Masson Street.<br>\nPlease note one signalised pedestrian crossing will remain open at all times during these works.",
+			"closure_end_time": "2018-08-25T08:00:00.000",
+			"closure_start_time": "2018-07-06T08:00:00.000",
+			"closure_description": "",
+			"object_id": "191"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1305150848828,
+				-35.270363630747575
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e7c1fa89-9e6c-4f87-8b49-6fc6351185b7",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Sandford Street / Morisset Road.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "192"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14476760246288,
+				-35.221260027531514
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "922f003b-5b4e-4498-b4e4-8c7c17f7dd94",
+			"closure_type": "lightRail",
+			"project_title": " Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "BARRY DRIVE WESTBOUND DIRECTION: From Northbourne Avenue to Moore Street.",
+			"closure_end_time": "2018-08-09T20:00:00.000",
+			"closure_start_time": "2018-08-06T10:00:00.000",
+			"closure_description": null,
+			"object_id": "193"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12895032323286,
+				-35.275731774312995
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "8e1f00cb-b747-47b9-bc3e-700611ed40d1",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE CENTRE MEDIAN: Will be closed at the Ipima Street / Condamine Street intersection.",
+			"closure_end_time": "2018-09-08T08:00:00.000",
+			"closure_start_time": "2018-08-19T23:30:00.000",
+			"closure_description": "",
+			"object_id": "194"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1311995369785,
+				-35.26624297107256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "8bebf505-0f80-4a0b-af10-f9f489610cd4",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Nullarbor Avenue.<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday from Tuesday 31 July 2018 to Friday 31 August 2018.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "195"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14926382971078,
+				-35.20087741570297
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "9ad719a9-1e7e-428f-9f74-96a8a5d07e4e",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (South).<br>\nWill be closed on periodic days as required between the hours of 9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-07-30T23:30:00.000",
+			"closure_description": "",
+			"object_id": "196"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15087316953168,
+				-35.19387469261729
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "39ce4798-bdb9-47fa-ab74-73a033e7dc01",
+			"closure_type": "roadWorks",
+			"project_title": "Roadworks associated with the Old Well Station Road upgrade project.",
+			"roads_closed": "OLD WELL STATION ROAD BOTH DIRECTIONS: From the Federal Highway to the EPIC car park entry / exit located approximately 385 metres north of the Federal Highway.<br>\n(Access to Canberra Park accommodation will be maintained via Flemington Road / Morisset Road).",
+			"closure_end_time": "2018-09-27T07:00:00.000",
+			"closure_start_time": "2018-08-31T06:00:00.000",
+			"closure_description": "",
+			"object_id": "197"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15330070654016,
+				-35.22703524206452
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "195bb560-4e31-4f4a-abb1-639c13c24302",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Girrahween Street and Masson Street.<br>\n9.30 am – 4 pm (daily) Monday to Friday. 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T05:00:00.000",
+			"closure_start_time": "2018-08-24T23:30:00.000",
+			"closure_description": "",
+			"object_id": "198"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13048358149456,
+				-35.27033510005733
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "fec9435e-49b2-4173-8535-44de4c3eb4da",
+			"closure_type": "lightRail",
+			"project_title": "Light rail ready event.",
+			"roads_closed": "GUNGAHLIN PLACE EAST & WEST BOTH DIRECTIONS: From Efkarpidis Street to Ernest Cavanagh Street.",
+			"closure_end_time": "2018-08-12T06:00:00.000",
+			"closure_start_time": "2018-08-11T21:00:00.000",
+			"closure_description": null,
+			"object_id": "199"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13494964689426,
+				-35.18525823447948
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "8bbe7444-845b-40e0-af3a-d612663e0164",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Lysaght Street.<br>\nWill be closed on periodic days as required between the hours of<br>\n9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-08-31T06:00:00.000",
+			"closure_start_time": "2018-08-01T23:30:00.000",
+			"closure_description": "",
+			"object_id": "200"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14559701261055,
+				-35.216013334628485
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4b832c48-de9f-41ab-8562-c61a14ae6992",
+			"closure_type": "specialEvent",
+			"project_title": "Sanitarium Weet-Bix Kids TRY-athlon Series.",
+			"roads_closed": "LEVERRIER CRESCENT: between Battye Street and Aquatic Centre.<br>\nMASTERMAN STREET: between Leverrier Crescent and the car park behind Bruce Stadium.",
+			"closure_end_time": "2019-02-10T05:30:00.000",
+			"closure_start_time": "2019-02-09T17:30:00.000",
+			"closure_description": "",
+			"object_id": "201"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.10110608345514,
+				-35.24644283334769
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5d337705-3082-4fed-afbb-8eedd228d107",
+			"closure_type": "utilities",
+			"project_title": "Installation of underground services associated with the Bunnings Warehouse Tuggeranong extension.",
+			"roads_closed": "SHEERIN STREET BOTH DIRECTIONS: From the Bunnings Warehouse car park entry / exit to Anketell Street.",
+			"closure_end_time": "2018-08-18T07:00:00.000",
+			"closure_start_time": "2018-08-10T21:00:00.000",
+			"closure_description": "",
+			"object_id": "202"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0707960109279,
+				-35.420274614713236
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "6d2c3751-7e72-4a0f-ab58-6a4bf637d66c",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Gould Street and Elouera Street.",
+			"closure_end_time": "2018-08-17T20:00:00.000",
+			"closure_start_time": "2018-08-07T10:00:00.000",
+			"closure_description": "",
+			"object_id": "203"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13002164234717,
+				-35.272992737237914
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5919a4ba-6988-40c3-b03e-33c7aa65414a",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "FOOTPATH: Copper Crescent (western side) on either side of Spongolite Street.",
+			"closure_end_time": "2018-11-13T06:00:00.000",
+			"closure_start_time": "2018-08-12T20:30:00.000",
+			"closure_description": "Driveway Construction",
+			"object_id": "207"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.2091231131402,
+				-35.343032093455385
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "635a23df-375c-4c7f-ba74-eeefce9ad562",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "SIGNALISED PEDESTRIAN CROSSINGS: Northbourne Avenue (northern and southern side) at the intersection of Girrahween Street and Masson Street.<br>\nWill be closed on periodic days, nights and weekends as required between the hours of,<br>\n9.30 am – 4 pm (daily) Monday to Friday. 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 6 am Monday (inclusive).<br>\nPlease note one signalised pedestrian crossing will remain open at all times during these works.\n",
+			"closure_end_time": "2018-12-21T05:00:00.000",
+			"closure_start_time": "2018-08-24T23:30:00.000",
+			"closure_description": "",
+			"object_id": "208"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13061209307187,
+				-35.2703267060122
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b2f3fce7-dd0b-45a7-9005-7228c43fe12c",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE / FEDERAL HIGHWAY MEDIAN CROSSOVER: At the intersection of the Barton Highway.<br>\nWill be closed on periodic nights and weekends as required between the hours of,<br>\n8 pm – 6 am (nightly) Monday to Thursday.<br>\n8 pm Friday to 4 am Monday (inclusive).\n\n",
+			"closure_end_time": "2018-12-20T19:00:00.000",
+			"closure_start_time": "2018-08-07T10:00:00.000",
+			"closure_description": "",
+			"object_id": "220"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13682146867518,
+				-35.240569350250375
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "39b7624a-0d19-46a3-ae3c-9fd2e7739c1f",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Barry Drive and Cooyong Street.<br>\n10 pm Friday 24 August 2018 to 4 am Monday 27 August 2018.<br>\n10 pm Friday 31 August 2018 to 4 am Monday 3 September 2018.",
+			"closure_end_time": "2018-09-02T18:00:00.000",
+			"closure_start_time": "2018-08-27T12:00:00.000",
+			"closure_description": "",
+			"object_id": "221"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1297261749965,
+				-35.275812822184626
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "044b12da-1bf0-4a25-9b4b-3a765c3c95e9",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "Mount Franklin Road is closed at Bulls Head with no access to Bendora Road.",
+			"closure_end_time": "2018-08-13T03:24:00.000",
+			"closure_start_time": "2018-08-06T23:18:00.000",
+			"closure_description": "Inclement Weather",
+			"object_id": "225"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.80583076502938,
+				-35.3833541284987
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "df571e7f-f8b9-433c-8b8c-f7b19dfc0ed4",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Bunda Street and Rudd Street.<br>\nWill be closed on periodic days, nights and weekends as required between the hours of, 9.30 am – 4 pm (daily) Monday to Friday. 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-08-15T23:30:00.000",
+			"closure_description": "",
+			"object_id": "226"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12953028717084,
+				-35.27711897826009
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e00a4199-6780-42f7-9e41-90a66037107f",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "COOYONG STREET BOTH DIRECTIONS: From Northbourne Avenue to Mort Street.",
+			"closure_end_time": "2018-08-19T18:00:00.000",
+			"closure_start_time": "2018-08-17T12:00:00.000",
+			"closure_description": "",
+			"object_id": "227"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13044545758606,
+				-35.27582518503221
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "9e919ecc-22ad-439b-bfd7-86d7c12ad7b6",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Lysaght Street.<br>\nWill be closed on periodic days as required between the hours of:<br>\n9.30 am – 4 pm (daily) Monday to Friday.",
+			"closure_end_time": "2018-09-28T06:00:00.000",
+			"closure_start_time": "2018-09-02T23:30:00.000",
+			"closure_description": "",
+			"object_id": "228"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14553004988983,
+				-35.216021712661096
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "44486b74-b71d-4439-88a3-6b192e996256",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Ipima Street and Condamine Street will be closed.<br>\nWill be closed on periodic days, nights and weekends as required between the hours of,<br>\n9.30 am – 4 pm (daily) Monday to Friday. 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-09-09T23:30:00.000",
+			"closure_description": "",
+			"object_id": "229"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1312414958549,
+				-35.26623302060988
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "27143cab-3318-431d-b55d-8df63064520a",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Barry Drive and Cooyong Street.<br>\nWill be closed on periodic nights and weekends as required between the hours of, 8 pm – 6 am (nightly) Monday to Thursday. 10 pm Friday to 4 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-09-03T10:00:00.000",
+			"closure_description": "",
+			"object_id": "230"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1298709641564,
+				-35.275718712179554
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4266b643-3931-4df6-8ff7-b65116b86668",
+			"closure_type": "lightRail",
+			"project_title": " Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Macarthur Avenue and Wakefield Avenue.<br>\nWill be closed on periodic nights and weekends as required between the hours of, 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 4 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-08-20T10:00:00.000",
+			"closure_description": "",
+			"object_id": "231"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13216228445714,
+				-35.26055893924736
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0846ce8b-f186-4602-a50e-db28c219353a",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Antill Street / Mouat Street will be closed.<br>\nWill be closed on periodic nights and weekends as required between the hours of, 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 4 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-08-13T10:00:00.000",
+			"closure_description": "",
+			"object_id": "232"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1341269510429,
+				-35.24815988497369
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "90897251-7b3d-417b-a562-cd568aa34b9c",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Gould Street and Elouera Street.<br>\nWill be closed on periodic days, nights and weekends as required between the hours of, 9.30 am – 4 pm (daily) Monday to Friday. 8 pm – 6 am (nightly) Monday to Thursday. 8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-08-12T23:30:00.000",
+			"closure_description": "",
+			"object_id": "233"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13001128493352,
+				-35.273042887562525
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b7bd7c3c-e53c-4078-96d0-37ae053e8d72",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "STARKE STREET BOTH DIRECTIONS: Between Beaurepaire Crescent and Powell Street.<br>\nBetween Beaurepaire Crescent and Luke Crescent.<br>\n(Access to residential properties will be maintained at all times during these works).<br>\n7 am – 5 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).",
+			"closure_end_time": "2018-08-22T07:00:00.000",
+			"closure_start_time": "2018-08-14T21:00:00.000",
+			"closure_description": "",
+			"object_id": "240"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.01677372190346,
+				-35.22573117768063
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "eef38633-4355-4da2-8703-68682caf787b",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Boboyan Road is open to 4WD traffic only",
+			"closure_end_time": null,
+			"closure_start_time": "2019-06-06T06:21:00.000",
+			"closure_description": null,
+			"object_id": "322"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0400269586743,
+				-35.60445503456165
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "58b6e508-6faf-4541-8bd0-eda1c5553ca5",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "FREMANTLE DRIVE BOTH DIRECTIONS: Between Reverley Crescent and Mackie Crescent.<br>\nBetween Bunbury Street and Mckail Crescent.<br>\n7 am – 5 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).\n",
+			"closure_end_time": "2018-08-24T07:00:00.000",
+			"closure_start_time": "2018-08-19T21:00:00.000",
+			"closure_description": "",
+			"object_id": "241"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.04972063081152,
+				-35.34983428702605
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "659d821b-8cfc-4d4f-91cb-f967fae90a71",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "NAMATJIRA DRIVE BOTH DIRECTIONS: Between Parkinson Street and Conder Street.<br>\n9 am – 4.30 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).",
+			"closure_end_time": "2018-08-24T06:30:00.000",
+			"closure_start_time": "2018-08-16T23:00:00.000",
+			"closure_description": "",
+			"object_id": "242"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.05725672665807,
+				-35.34232181859547
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "c03a305e-89b7-4efa-a710-836206be1547",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "HAMBIDGE CRESCENT BOTH DIRECTIONS: Between Truganini Place and Norriss Street.<br>\nHAMBIDGE CRESCENT BOTH DIRECTIONS: Between Norriss Street and Baskerville Street.<br>\n(Access to residential properties will be maintained at all times during these works).<br>\n7 am – 5 pm (daily) Monday to Friday from Tuesday 21 August 2018 to Tuesday 28 August 2018.<br>\n(It is anticipated that these works will be completed in one day during this period).",
+			"closure_end_time": "2018-08-28T07:00:00.000",
+			"closure_start_time": "2018-08-20T21:00:00.000",
+			"closure_description": "",
+			"object_id": "243"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12317139489517,
+				-35.418957105705246
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d50422af-c36b-402e-82d2-bee3d26202a4",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "GOLDSTEIN CRESCENT BOTH DIRECTIONS: Between Wolstenholme Street and Alston Street.<br>\n(Access to residential properties will be maintained at all times during these works).<br>\n9 am – 4.30 pm (daily) Monday to Friday from Tuesday 21 August 2018 to Tuesday 28 August 2018.<br>\n(It is anticipated that these works will be completed in one day during this period).",
+			"closure_end_time": "2018-08-28T06:30:00.000",
+			"closure_start_time": "2018-08-20T23:00:00.000",
+			"closure_description": "",
+			"object_id": "244"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.11876176171518,
+				-35.4214158257
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "6a89ae77-27b9-4805-ad75-eca118ecc1a1",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4 - Construction of new speed humps.",
+			"roads_closed": "LONGMORE CRESCENT BOTH DIRECTIONS: Between Lobb Place and Phelan Place.<br>\nLONGMORE CRESCENT BOTH DIRECTIONS: Between Methven Place and Hoddinott Street.<br>\n7 am – 5 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).\n",
+			"closure_end_time": "2018-08-30T07:00:00.000",
+			"closure_start_time": "2018-08-22T21:00:00.000",
+			"closure_description": "",
+			"object_id": "245"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.09166632303703,
+				-35.38891219201481
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "50574662-6d4d-4199-9d57-51e24487e3f1",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4 - Construction of new speed humps.",
+			"roads_closed": "LONGMORE CRESCENT BOTH DIRECTIONS: Between Mckenna Street and Harker Place.<br>\nLONGMORE CRESCENT BOTH DIRECTIONS: Between Pettit Place and Witt Place.<br>\n7 am – 5 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).",
+			"closure_end_time": "2018-08-31T07:00:00.000",
+			"closure_start_time": "2018-08-23T21:00:00.000",
+			"closure_description": "",
+			"object_id": "246"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.103835707899,
+				-35.397923318704244
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "80649511-323c-428b-ac96-de67548f4630",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "LANGDON AVENUE BOTH DIRECTIONS: Between Dyer Place and Tytherleigh Street.<br>\n9 am – 4.30 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).",
+			"closure_end_time": "2018-09-03T06:30:00.000",
+			"closure_start_time": "2018-08-26T23:00:00.000",
+			"closure_description": "",
+			"object_id": "247"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.09058718510465,
+				-35.39252102571041
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "71730da8-fc75-41bf-a4d5-d8316e76b82e",
+			"closure_type": "roadWorks",
+			"project_title": "2017 / 2018 Residential Street Improvements – Design Package 4- Construction of new speed humps.",
+			"roads_closed": "LANGDON AVENUE BOTH DIRECTIONS: Between Cumming Place and Adamson Crescent.<br>\n9 am – 4.30 pm (daily) Monday to Friday.<br>\n(It is anticipated that these works will be completed in one day during this period).<br>\n(Access to residential properties will be maintained at all times during these works).",
+			"closure_end_time": "2018-09-04T06:30:00.000",
+			"closure_start_time": "2018-08-27T23:00:00.000",
+			"closure_description": "",
+			"object_id": "248"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0966056640466,
+				-35.39422793417275
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "7732b823-863d-4b4f-92f5-d9935bcfaeaf",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "TOWNSEND PLACE: At the intersection with Aikman Drive.<br>\nFrom Monday 7 May 2012 between sunset and sunrise, until further notice.<br>\nPlease note access for emergency and maintenance vehicles will be maintained at all times.",
+			"closure_end_time": null,
+			"closure_start_time": "2012-05-06T14:01:00.000",
+			"closure_description": "To prevent illegal dumping and vandalism in the area.",
+			"object_id": "251"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.077453509941,
+				-35.23545732274395
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "985f9dc5-010d-4c4c-b6c9-0a6bb285cb7f",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building construction works associated with the development of Blocks 7,8 and 9 Section 18 Braddon the site of Geocon’s Midnight development (former NRMA building)",
+			"roads_closed": "Approximately 35 off street car parking spaces on the western side of Mort Street from the Elouera Street intersection will be affected. The closures of car park spaces will be along a 100 metre section (northbound) of Mort Street.",
+			"closure_end_time": null,
+			"closure_start_time": "2017-11-01T02:01:00.000",
+			"closure_description": "",
+			"object_id": "252"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.131141164795,
+				-35.27301317429034
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "38b5eae9-4a6c-4f97-81ec-ebd954bf6aef",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "GENERAL BRIDGES DR: Just past the entrance to the RMC Obstacle Course.<br>\nfrom 7.00pm to 7.00am \n",
+			"closure_end_time": null,
+			"closure_start_time": "2008-11-08T02:04:00.000",
+			"closure_description": "To restrict the level of vandalism of the “Gunner Memorial”",
+			"object_id": "253"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1595342368915,
+				-35.29854421825134
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "ab2432bd-d7e8-4bb8-8fb9-2ea1840b8310",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "COREE PLACE: At the intersection with Tucana Street.<br>\nFrom Monday 4 August 2014 between sunset and sunrise, until further notice.",
+			"closure_end_time": null,
+			"closure_start_time": "2014-08-03T14:01:00.000",
+			"closure_description": "To prevent illegal dumping and vandalism in the area.",
+			"object_id": "254"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.0969525680576,
+				-35.21670657278263
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "b420fccb-7478-413d-9dee-9d9166159538",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "BARTLET PLACE: Adjacent to the entrance of the Tuggeranong Pool and Recreation Centre.<br>\nPlease note that the access to Tuggeranong Pool and Recreation Centre will not be affected.<br>\nBetween 10.00pm and 7.00am daily.",
+			"closure_end_time": null,
+			"closure_start_time": "2012-03-30T13:01:00.000",
+			"closure_description": "To restrict level of vandalism",
+			"object_id": "255"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.06433555741614,
+				-35.411300152355686
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "d81c90f4-03c8-46b2-9277-296cfeb4dd95",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "JUSTINIAN STREET Approximately fifty metres from the intersection with Yamba Drive.<br>\nFrom dusk to 7.30am.",
+			"closure_end_time": null,
+			"closure_start_time": "2005-06-18T08:00:00.000",
+			"closure_description": "To restrict vandalism.",
+			"object_id": "256"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.09390073007984,
+				-35.341111831058505
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "7c5049c0-df4c-4d0c-aff5-eda32eede1e0",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "BELLENDEN STREET : Approximately two hundred metres west of Hoskins Street.<br>\nFrom 8.00am on Wednesday 15 June 2005 until further notice.",
+			"closure_end_time": null,
+			"closure_start_time": "2005-06-14T22:00:00.000",
+			"closure_description": "To restrict level of vandalism.",
+			"object_id": "257"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13493822730908,
+				-35.22256976798865
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Until Further Notice",
+			"global_id": "a962f313-47e9-49ec-8e59-e3ad25a4de8d",
+			"closure_type": "other",
+			"project_title": "None",
+			"roads_closed": "KALLAROO ROAD: Part of Kallaroo Road, adjacent to number 23 Kallaroo Road.<br>\nFrom 6.00 am Thursday 1 March 2012, until further notice.",
+			"closure_end_time": null,
+			"closure_start_time": "2012-02-29T19:00:00.000",
+			"closure_description": "To prevent illegal dumping and vandalism in the area.",
+			"object_id": "258"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.18343552530644,
+				-35.314655879595506
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "800f8559-dd04-4250-b25d-f71e20bd09dd",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "RANDWICK ROAD BOTH DIRECTIONS: From Flemington Road to approximately 120 metres west of Flemington Road towards the Barton Highway.<br>\n<br>\nFLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Randwick Road.<br>\nWill be closed on periodic days, nights and weekends as required between the hours of,<br>\n9.30 am – 4 pm (daily) Monday to Friday.<br>\n8 pm – 6 am (nightly) Monday to Thursday.<br>\n8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T05:00:00.000",
+			"closure_start_time": "2018-08-19T23:30:00.000",
+			"closure_description": "",
+			"object_id": "259"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14399942023658,
+				-35.22789195168203
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "6f4088ab-956d-452b-b5e3-494fce8787f5",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "ELOUERA STREET BOTH DIRECTIONS: From Northbourne Avenue to Mort Street.<br>\n(Access for local residents will be maintained during these works)",
+			"closure_end_time": "2018-08-14T06:00:00.000",
+			"closure_start_time": "2018-08-12T23:30:00.000",
+			"closure_description": "",
+			"object_id": "260"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.130944423414,
+				-35.27315653318607
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5383e0b3-37ce-48aa-8751-21b6508c19eb",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Mount Franklin Road closed at Mount Franklin Chalet",
+			"closure_end_time": "2018-08-18T08:00:00.000",
+			"closure_start_time": "2018-08-11T08:00:00.000",
+			"closure_description": "",
+			"object_id": "261"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.7640547757473,
+				-35.49713661914248
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "1f2b72b0-27bb-4f25-a933-51a665e68933",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "ELOUERA STREET BOTH DIRECTIONS: From Northbourne Avenue to Mort Street.<br>\n(Access for local residents will be maintained during these works)",
+			"closure_end_time": "2018-09-03T06:00:00.000",
+			"closure_start_time": "2018-08-19T23:30:00.000",
+			"closure_description": null,
+			"object_id": "265"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13082247164493,
+				-35.27314818635585
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ee6855f5-0fbb-44e4-85e5-97f2867b39a5",
+			"closure_type": "lightRail",
+			"project_title": "LRV testing associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (South)<BR>\nWill be closed on periodic days as required between the hours of 12 midday to 10 pm Monday to Sunday",
+			"closure_end_time": "2018-10-31T11:00:00.000",
+			"closure_start_time": "2018-08-20T02:00:00.000",
+			"closure_description": "",
+			"object_id": "266"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15092638935982,
+				-35.19393356498364
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "2ca03967-1542-4ec3-8ed7-43518d530fb1",
+			"closure_type": "other",
+			"project_title": "Stormwater installation",
+			"roads_closed": "CHRISTINA STEAD STREET BOTH DIRECTIONS: From Nullarbor Avenue to Mavis Latham Street.",
+			"closure_end_time": "2018-09-30T07:00:00.000",
+			"closure_start_time": "2018-09-09T21:00:00.000",
+			"closure_description": "Stormwater installation",
+			"object_id": "267"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14781321259358,
+				-35.20109042633238
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "6bd3373e-a73c-4583-a0c4-476778843d59",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "NORTHBOURNE AVENUE MEDIAN CROSSOVER: At the intersection of Bunda Street and Rudd Street.",
+			"closure_end_time": "2018-09-17T08:00:00.000",
+			"closure_start_time": "2018-09-02T23:30:00.000",
+			"closure_description": null,
+			"object_id": "269"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12943937990326,
+				-35.277138293038426
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f303d87f-af4f-423d-ba46-db173e62ac95",
+			"closure_type": "utilities",
+			"project_title": "High voltage electricity supply installation.",
+			"roads_closed": "RABAUL LANE BOTH DIRECTIONS: Between the Waldorf Hotel car park and rear car park.<br>\n7 am – 6 pm (daily) Monday to Friday on periodic days as required",
+			"closure_end_time": "2018-09-28T08:00:00.000",
+			"closure_start_time": "2018-09-02T21:00:00.000",
+			"closure_description": null,
+			"object_id": "270"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1329640031185,
+				-35.282064982959334
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f6540803-b990-4709-bafc-1e34c86266f1",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Mt Franklin Road at the Snowgum car park",
+			"closure_end_time": "2018-09-04T06:45:00.000",
+			"closure_start_time": "2018-08-18T08:00:00.000",
+			"closure_description": "",
+			"object_id": "271"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.7748145960718,
+				-35.443514707046475
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "f1fbf5c6-d458-4f39-8ec6-fba171719653",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Boboyan Road restricted to 4WD vehicles only",
+			"closure_end_time": "2018-08-22T01:32:00.000",
+			"closure_start_time": "2018-08-19T01:53:00.000",
+			"closure_description": "",
+			"object_id": "272"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.99620864827736,
+				-35.735012324592205
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "7f8177fb-c956-4bdf-9845-ac636528cd28",
+			"closure_type": "specialEvent",
+			"project_title": "Ned and Josh Biggest Little Movie.",
+			"roads_closed": "KAMBAH POOL ROAD at Mount Vernon Drive.\n",
+			"closure_end_time": "2018-08-30T07:00:00.000",
+			"closure_start_time": "2018-08-29T22:30:00.000",
+			"closure_description": null,
+			"object_id": "273"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.03185430489788,
+				-35.38822256517256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ed7c8630-a6f5-4a9a-8669-65eaf3749482",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "TEST ROAD CLOSURE",
+			"closure_end_time": "2018-08-19T01:42:00.000",
+			"closure_start_time": "2018-08-12T01:41:00.000",
+			"closure_description": "",
+			"object_id": "274"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.465576898628,
+				-34.447830243514524
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "eeafabdc-b1bc-43d7-865c-f411ea4120cc",
+			"closure_type": "other",
+			"project_title": "Crane lift",
+			"roads_closed": "ARTHUR CIRCLE BOTH DIRECTIONS: From Tasmania Circle / Monaro Crescent to Furneaux Street. <br>\n(Access for local residents will be maintained during these works).\n",
+			"closure_end_time": "2018-08-30T08:00:00.000",
+			"closure_start_time": "2018-08-27T21:00:00.000",
+			"closure_description": "Crane lift",
+			"object_id": "275"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12810685786968,
+				-35.32159340117067
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ae9cfd18-d53c-46bc-8560-106a72efbbcf",
+			"closure_type": "specialEvent",
+			"project_title": "2018 Canberra Times Fun Run.",
+			"roads_closed": "WENDOUREE DRIVE Between Constitution Avenue and Kings Avenue.",
+			"closure_end_time": "2018-09-23T03:00:00.000",
+			"closure_start_time": "2018-09-22T20:00:00.000",
+			"closure_description": null,
+			"object_id": "276"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14363989215298,
+				-35.29558159088351
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b438972f-89f7-4130-a5ed-01169712fd06",
+			"closure_type": "specialEvent",
+			"project_title": "2018 Canberra Times Fun Run.",
+			"roads_closed": "ADELAIDE AVENUE Off ramp at State Circle.<br>\nKINGS AVENUE Northbound lanes.<br>\nSTATE CIRCLE Northbound lanes.<br>\nWALPOLE CRESCENT Between Queen Victoria Terrace and King George Terrace.<br>\nFLYNN DRIVE Between State Circle and Coronation Drive.<br>\nQUEEN VICTORIA TERRACE Between Walpole Crescent and Langton Crescent<br>\nFEDERATION MALL Between Queen Victoria Crescent and Parliament Drive.<br>\nPARLIAMENT DRIVE At entrances to State Circle and Commonwealth Avenue.<br>\nLANGTON CRESCENT Between Queen Victoria Terrace and King George Terrace.<br>\nKING GEORGE TERRACE Between Langton Crescent and Kings Avenue.<br>",
+			"closure_end_time": "2018-09-23T02:00:00.000",
+			"closure_start_time": "2018-09-22T20:00:00.000",
+			"closure_description": null,
+			"object_id": "277"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1292010276033,
+				-35.30632844108868
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "97c521c8-b907-43e2-9bed-616dc1723376",
+			"closure_type": "buildingConstruction",
+			"project_title": "Building demolition works.",
+			"roads_closed": "BOWES STREET: Will be closed at the entrance to the Woden Bus Station.<br>\n11.30 pm – 5 am (nightly) Monday to Friday.<br>\n11.30 pm – 7 am (nightly) Saturday.<br>\n8 pm – 5 am (nightly) Sunday.<br>",
+			"closure_end_time": "2018-10-06T18:00:00.000",
+			"closure_start_time": "2018-09-16T10:00:00.000",
+			"closure_description": null,
+			"object_id": "278"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.08758613818054,
+				-35.34365162149109
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "702dd9d6-46ab-480a-99d0-f7533fd09e41",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light Rail project.",
+			"roads_closed": "FEDERAL HIGHWAY NORTHBOUND DIRECTION: From Phillip Avenue to Flemington Road.",
+			"closure_end_time": "2018-09-13T20:00:00.000",
+			"closure_start_time": "2018-09-11T10:00:00.000",
+			"closure_description": null,
+			"object_id": "280"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14491019450594,
+				-35.234955367283426
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "916a7b27-157a-4ba9-b545-08097846c5bf",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light\nRail project.",
+			"roads_closed": "FLEMINGTON ROAD BOTH DIRECTIONS: From Randwick Road to Federal Highway.",
+			"closure_end_time": "2018-12-20T19:00:00.000",
+			"closure_start_time": "2018-09-01T10:00:00.000",
+			"closure_description": null,
+			"object_id": "281"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.14480966422684,
+				-35.23049901536528
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4ebd511e-bb7c-45e9-9eb3-8fcbac010e81",
+			"closure_type": "roadWorks",
+			"project_title": "Asphalt resurfacing works associated with the Ashley Drive duplication project.",
+			"roads_closed": "ASHLEY DRIVE NORTHBOUND DIRECTION From Johnson Drive to Isabella Drive.<br>\nELLERSTON AVENUE BOTH DIRECTIONS: From Groveland Crescent to Ashley Drive.",
+			"closure_end_time": "2018-09-23T08:00:00.000",
+			"closure_start_time": "2018-09-21T20:00:00.000",
+			"closure_description": null,
+			"object_id": "282"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1039260499722,
+				-35.4282973816872
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "5c0cb4eb-a44a-4ccd-a43d-aaf2b66497c5",
+			"closure_type": "specialEvent",
+			"project_title": "Canberra Nara Candle Festival 2018.",
+			"roads_closed": "KAYE PLACE at the intersection with Flynn Drive.<br>\nKAYE STREET between Commonwealth Avenue and Flynn Drive.",
+			"closure_end_time": "2018-10-27T10:30:00.000",
+			"closure_start_time": "2018-10-27T05:00:00.000",
+			"closure_description": null,
+			"object_id": "285"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1244151786612,
+				-35.297976935254205
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "e8c740f1-1362-4ca8-b192-5973e555e019",
+			"closure_type": "specialEvent",
+			"project_title": "New Year’s Eve celebrations.",
+			"roads_closed": "NORTHBOURNE AVENUE Southbound between Cooyong Street and Vernon Circle.<br>\nVERNON CIRCLE Northbound and Southbound Lanes between Commonwealth Avenue and Northbourne Avenue.<br>\nFrom 8:40 pm to 9:30 pm on Monday 31 December 2018,<br>\nand from 11:40 pm on Monday 31 December 2018 to 12:30 am on Tuesday 1 January 2019.\n",
+			"closure_end_time": "2018-12-31T13:30:00.000",
+			"closure_start_time": "2018-12-31T09:40:00.000",
+			"closure_description": null,
+			"object_id": "286"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.12967645040044,
+				-35.27751194856634
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "a8dd4ca4-c523-4d35-b80c-291b00f1bc41",
+			"closure_type": "specialEvent",
+			"project_title": "New Year’s Eve celebrations.",
+			"roads_closed": "LONDON CIRCUIT Between Northbourne Avenue and Akuna Street.<br>\nCARPARK Opposite Bailey’s Corner.",
+			"closure_end_time": "2018-12-31T15:00:00.000",
+			"closure_start_time": "2018-12-31T06:00:00.000",
+			"closure_description": null,
+			"object_id": "287"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13142913274146,
+				-35.28094845717585
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "4a2103e2-cadb-4e16-9efe-3ef515da1166",
+			"closure_type": "specialEvent",
+			"project_title": "New Year’s Eve celebrations.",
+			"roads_closed": "CARPARK Adjacent to Legislative Assembly on London Circuit.<br>\nCONSTITUTION AVENUE at Vernon Circle.",
+			"closure_end_time": "2018-12-31T15:00:00.000",
+			"closure_start_time": "2018-12-31T03:00:00.000",
+			"closure_description": null,
+			"object_id": "288"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1298881429123,
+				-35.28262679094778
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "d4088dc2-f770-426c-b3b7-c231322f492b",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light\nRail project.",
+			"roads_closed": "FLEMINGTON ROAD MEDIAN CROSSOVER: At the intersection of Mapleton Avenue / Manning Clark Crescent (South)<br>\nWill be closed on periodic days, nights and weekends as required between the hours of<br>\n9.30 am – 4 pm (daily) Monday to Friday.<br>\n8 pm – 6 am (nightly) Monday to Thursday.<br>\n8 pm Friday to 6 am Monday (inclusive).",
+			"closure_end_time": "2018-12-21T05:00:00.000",
+			"closure_start_time": "2018-09-02T23:30:00.000",
+			"closure_description": null,
+			"object_id": "289"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.15092716971668,
+				-35.19390184868916
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "0cb78e6a-9e63-43aa-8f6c-616d40552c53",
+			"closure_type": "lightRail",
+			"project_title": "Civil works associated with the Transport Canberra\nLight Rail project.",
+			"roads_closed": "ELOUERA STREET BOTH DIRECTIONS: From Northbourne Avenue to Mort Street.<br>\n(Access for local residents will be maintained during these works)",
+			"closure_end_time": "2018-09-10T06:00:00.000",
+			"closure_start_time": "2018-09-03T06:00:00.000",
+			"closure_description": null,
+			"object_id": "290"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13088718678165,
+				-35.273114024576266
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "ec61ce59-ecae-4f1d-addc-eb0efd0e7ef9",
+			"closure_type": "inclementWeather",
+			"project_title": "None",
+			"roads_closed": "Mount Franklin Road closed at Mount Franklin Gate",
+			"closure_end_time": "2018-09-03T04:59:00.000",
+			"closure_start_time": "2018-09-01T00:39:00.000",
+			"closure_description": "",
+			"object_id": "291"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				148.8041079172688,
+				-35.36756204414994
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "c9a0f56f-593e-4524-8359-e0a6821ff31b",
+			"closure_type": "lightRail",
+			"project_title": "Works associated with the Transport Canberra Light\nRail project.",
+			"roads_closed": "FEDERAL HIGHWAY NORTHBOUND DIRECTION: From Phillip Avenue to Flemington Road.",
+			"closure_end_time": "2018-09-16T18:00:00.000",
+			"closure_start_time": "2018-09-14T12:00:00.000",
+			"closure_description": null,
+			"object_id": "292"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1449897026962,
+				-35.23493747817132
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b316a7a8-7bd8-4254-a7cf-7fbdede701a1",
+			"closure_type": "specialEvent",
+			"project_title": "Hall Party at the Shops.",
+			"roads_closed": "VICTORIA STREET between Loftus Street and Gladstone Street.",
+			"closure_end_time": "2018-10-26T11:00:00.000",
+			"closure_start_time": "2018-10-26T03:00:00.000",
+			"closure_description": null,
+			"object_id": "293"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.06984797871144,
+				-35.17011382010594
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "304f6cc8-f4b7-4fff-9e06-56c05bf27e6a",
+			"closure_type": "specialEvent",
+			"project_title": "Gungahlin Spring Celebration.",
+			"roads_closed": "HIBBERSON STREET Between Gozzard Street and Gungahlin Place.",
+			"closure_end_time": "2018-10-20T10:00:00.000",
+			"closure_start_time": "2018-10-19T22:00:00.000",
+			"closure_description": "",
+			"object_id": "294"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1336284889756,
+				-35.18533330945071
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "caf7d945-221d-40e9-9a2c-d55c938203dc",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events.",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2018-10-05T13:59:00.000",
+			"closure_start_time": "2018-10-04T21:00:00.000",
+			"closure_description": null,
+			"object_id": "295"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13454562792066,
+				-35.31812718390715
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "b5e3edc5-8d80-41df-86e3-63bbbdd22e2f",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events.",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2018-10-05T13:59:00.000",
+			"closure_start_time": "2018-10-04T21:00:00.000",
+			"closure_description": "",
+			"object_id": "296"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.13454562792066,
+				-35.31812718390715
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "14f8ca67-17c9-4acd-9b9b-d1d510fc988b",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events ",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2018-10-31T12:59:00.000",
+			"closure_start_time": "2018-10-30T20:00:00.000",
+			"closure_description": null,
+			"object_id": "297"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1346500887165,
+				-35.31826164449978
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"closure_end_time_status": "Known",
+			"global_id": "92e9fef6-f502-472b-9fd7-399d100a8954",
+			"closure_type": "specialEvent",
+			"project_title": "Manuka Oval Events",
+			"roads_closed": "FITZROY STREET between Empire Circuit and Manuka Circle.<br>\nMANUKA CIRCLE WEST between New South Wales Crescent and Canberra Avenue.<br>\nMANUKA CIRCLE EAST between New South Wales Crescent and Canberra Avenue.<br>\nCAR PARK between Manuka Pool and Manuka Arts Centre.<br>\nOXLEY STREET between Giles Street and Manuka Circle.<br>",
+			"closure_end_time": "2018-12-21T12:59:00.000",
+			"closure_start_time": "2018-12-20T20:00:00.000",
+			"closure_description": null,
+			"object_id": "298"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				149.1346345495569,
+				-35.31817839412425
+			]
+		}
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"ID": 6,
+		"DIVISION": "Greenway",
+		"LOCATION": "Mortimer Lewis Drive District Park",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.411595,
+		"LONGITUDE": 149.071984,
+		"Location_1": "(-35.411595, 149.071984)"
+	},
+	{
+		"ID": 5,
+		"DIVISION": "Yarralumla",
+		"LOCATION": "Weston Park Road Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.298963,
+		"LONGITUDE": 149.094421,
+		"Location_1": "(-35.298963, 149.094421)"
+	},
+	{
+		"ID": 9,
+		"DIVISION": "O'connor",
+		"LOCATION": "Belconnen Way Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.259656,
+		"LONGITUDE": 149.108039,
+		"Location_1": "(-35.259656, 149.108039)"
+	},
+	{
+		"ID": 3,
+		"DIVISION": "Forde",
+		"LOCATION": "Pooley Street Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.167574,
+		"LONGITUDE": 149.144216,
+		"Location_1": "(-35.167574, 149.144216)"
+	},
+	{
+		"ID": 2,
+		"DIVISION": "Casey",
+		"LOCATION": "Yeend Avenue Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.167553,
+		"LONGITUDE": 149.098844,
+		"Location_1": "(-35.167553, 149.098844)"
+	},
+	{
+		"ID": 7,
+		"DIVISION": "Belconnen",
+		"LOCATION": "Diddams Close Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.228804,
+		"LONGITUDE": 149.073311,
+		"Location_1": "(-35.228804, 149.073311)"
+	},
+	{
+		"ID": 1,
+		"DIVISION": "Duffy",
+		"LOCATION": "Warragamba Avenue Pedestrian Parkland",
+		"IMAGE_LINK": "",
+		"VIDEO_LINK": "",
+		"LATITUDE": -35.329716,
+		"LONGITUDE": 149.028726,
+		"Location_1": "(-35.329716, 149.028726)"
+	}
+]

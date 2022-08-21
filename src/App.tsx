@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { Wrapper, Status } from '@googlemaps/react-wrapper';
+import Page from './components/Page/Page';
+import Map from './components/Map/Map';
+import Menu from './components/Menu/Menu';
+import { Context, ContextProvider } from './context';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const render = (status: Status) => {
+	return <p>{status}</p>;
+};
+
+const App: React.FC = () => {
+	// Initial zoom
+	const [zoom, setZoom] = useState(12);
+	// Initial centre
+	const [center, setCenter] = useState<google.maps.LatLngLiteral>({
+		lat: -35.33346955669174,
+		lng: 149.11833202684267
+	});
+
+	return (
+		<ContextProvider>
+			<Page>
+				<Context.Consumer>
+					{(contextValue) => {
+						// console.log(contextValue);
+						return (
+							<Wrapper apiKey={process.env.REACT_APP_GMAPS_API_KEY || ''} render={render}>
+								<Map center={center} zoom={zoom} pins={contextValue.pins} />
+							</Wrapper>
+						);
+					}}
+				</Context.Consumer>
+				<Menu/>
+			</Page>
+		</ContextProvider>
+	);
+};
 
 export default App;

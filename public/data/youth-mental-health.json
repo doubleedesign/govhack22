@@ -1,0 +1,152 @@
+[
+	{
+		"name": "Child and Adolescent Mental Health Services (CAMHS) - North",
+		"location": "56 Lathlain Street, Belconnen, ACT, 2617",
+		"latitude": -35.2397918,
+		"longitude": 149.0638668
+	},
+	{
+		"name": "Child and Adolescent Mental Health Services (CAMHS) - South",
+		"location": "Level 2 Building A, Easty Street, Woden, ACT, 2606",
+		"latitude": -35.3484381,
+		"longitude": 149.0915004
+	},
+	{
+		"name": "Belconnen Community Health Centre",
+		"location": "56 Lathlain St, Belconnen ACT 2617",
+		"latitude": -35.2397918,
+		"longitude": 149.0638668
+	},
+	{
+		"name": "Belconnen Youth Centre",
+		"location": "Chandler St &amp; Swanson Ct, Belconnen ACT 2616",
+		"latitude": -35.2392022,
+		"longitude": 149.0703719
+	},
+	{
+		"name": "Tuggeranong Community Health Centre",
+		"location": "Anketell St &amp;, Pitman St, Greenway ACT 2900",
+		"latitude": -35.414511,
+		"longitude": 149.0667676
+	},
+	{
+		"name": "Youth Link Australia",
+		"location": "Kings Canyon St, Harrison ACT 2914",
+		"latitude": -35.2054005,
+		"longitude": 149.149466
+	},
+	{
+		"name": "Dhulwa Mental Health Unit",
+		"location": "30 Mugga Ln, Symonston ACT 2609",
+		"latitude": -35.3471073,
+		"longitude": 149.1376795
+	},
+	{
+		"name": "City Community Health Centre",
+		"location": "1 Moore St, Canberra ACT 2601",
+		"latitude": -35.2778485,
+		"longitude": 149.1273179
+	},
+	{
+		"name": "Circles of Support | YWCA",
+		"location": "Level 2, 71 Northbourne Avenue. Canberra City, ACT 2601",
+		"latitude": -35.2762201,
+		"longitude": 149.1291269
+	},
+	{
+		"name": "The Junction Youth Health Service",
+		"location": "30 Scotts Crossing, Canberra ACT 2601",
+		"latitude": -35.2776796,
+		"longitude": 149.1343292
+	},
+	{
+		"name": "Multicultural Youth Services ACT",
+		"location": "2\/180 London Cct, Canberra ACT 2601",
+		"latitude": -35.2807991,
+		"longitude": 149.1307015
+	},
+	{
+		"name": "headspace Canberra",
+		"location": "Unit 1\/1 Torrens St, Braddon ACT 2612",
+		"latitude": -35.275866,
+		"longitude": 149.1333733
+	},
+	{
+		"name": "O'Donnell Youth Centre",
+		"location": "Limestone Ave, Braddon ACT 2612",
+		"latitude": -35.2706034,
+		"longitude": 149.140821
+	},
+	{
+		"name": "Calvary Public Hospital Bruce",
+		"location": "5 Mary Potter Cct, Bruce ACT 2617",
+		"latitude": -35.2530424,
+		"longitude": 149.0878645
+	},
+	{
+		"name": "University of Canberra Hospital",
+		"location": "20 Guraguma St, Bruce ACT 2617",
+		"latitude": -35.2327428,
+		"longitude": 149.0813227
+	},
+	{
+		"name": "Mura Lanyon Youth and Community Centre (MLYCC)",
+		"location": "22 Sidney Nolan St, Conder ACT 2906",
+		"latitude": -35.4584487,
+		"longitude": 149.0945345
+	},
+	{
+		"name": "Youth Coalition of the ACT",
+		"location": "Pre-School, 46 Clianthus St, O'Connor ACT 2602",
+		"latitude": -35.2518866,
+		"longitude": 149.1176753
+	},
+	{
+		"name": "Canberra Hospital",
+		"location": "Yamba Dr, Garran ACT 2605",
+		"latitude": -35.3435228,
+		"longitude": 149.0980784
+	},
+	{
+		"name": "Gungahlin Community Health Centre",
+		"location": "57 Ernest Cavanagh St, Gungahlin ACT 2912",
+		"latitude": -35.1841736,
+		"longitude": 149.1365581
+	},
+	{
+		"name": "Menslink",
+		"location": "Unit 27\/27 Mulley St, Holder ACT 2611",
+		"latitude": -35.3318768,
+		"longitude": 149.049903
+	},
+	{
+		"name": "Oasis Youth Services",
+		"location": "14\/27 Mulley St, Holder ACT 2611",
+		"latitude": -35.3318768,
+		"longitude": 149.049903
+	},
+	{
+		"name": "New Horizons",
+		"location": "255 Goyder Street, Narrabundah ACT",
+		"latitude": -35.3403347,
+		"longitude": 149.1457528
+	},
+	{
+		"name": "Phillip Community Health Centre",
+		"location": "17 Corinna St, Phillip ACT 2606",
+		"latitude": -35.3450652,
+		"longitude": 149.0843499
+	},
+	{
+		"name": "Woden Youth Centre",
+		"location": "29 Callam St, Phillip ACT 2606",
+		"latitude": -35.3446122,
+		"longitude": 149.0887052
+	},
+	{
+		"name": "Woden Community Service",
+		"location": "26 Corinna St, Phillip ACT 2606",
+		"latitude": -35.3454953,
+		"longitude": 149.0835937
+	}
+]
